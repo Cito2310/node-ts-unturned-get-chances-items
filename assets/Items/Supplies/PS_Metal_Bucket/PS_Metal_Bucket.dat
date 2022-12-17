@@ -1,0 +1,39 @@
+GUID 0261213611da4dfbaba221365fd5ae35
+Type Storage
+Rarity Uncommon
+Useable Barricade
+Build Storage
+ID 59562
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Health 50
+Range 4
+Radius 0.22
+Offset 0.2675
+
+Explosion 36
+Vulnerable
+
+Storage_X 2
+Storage_Y 2
+Display
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59562
+Blueprint_0_Product 59000
+Blueprint_0_Products 3
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27
+
+Should_Close_When_Outside_Range true
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Salvage_Duration_Multiplier 0.2
+
+Bypass_Pickup_Ownership True

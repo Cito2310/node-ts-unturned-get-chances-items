@@ -1,0 +1,23 @@
+GUID eb7117d29f4b41feb4c518b146aef3be
+Type Supply
+Rarity Common
+ID 59670
+
+Size_X 1
+Size_Y 1
+Size_Z 0.285
+
+Blueprints 2
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59001
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 59376
+Blueprint_0_Build 27
+
+Blueprint_1_Type Gear
+Blueprint_1_Supply_0_ID 59670
+Blueprint_1_Product 59001
+Blueprint_1_Products 1
+Blueprint_1_Tool 59004
+Blueprint_1_Build 27

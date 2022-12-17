@@ -1,0 +1,14 @@
+GUID f324fcc61c894880bbb155d73ba7aa8e
+Type Barrel
+ID 59347
+
+Size_X 5
+Size_Y 5
+Size_Z 1
+
+Silenced 
+Volume 0.9
+
+Gunshot_Rolloff_Distance_Multiplier 0.4
+
+Ballistic_Drop 1.2

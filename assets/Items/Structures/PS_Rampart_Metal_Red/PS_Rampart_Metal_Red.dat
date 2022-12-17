@@ -1,0 +1,31 @@
+GUID 03510f9ba016402a9d0d8828d0fcdd87
+Type Structure
+Rarity Epic
+Useable Structure
+Construct Rampart
+ID 59483
+
+Size_X 2
+Size_Y 1
+Size_Z 0.3
+
+Health 3200
+Range 6
+
+Explosion 36
+
+
+
+Blueprints 1
+Blueprint_0_Type Structure
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 59467
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 59505
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Tool 59003
+Blueprint_0_Build 27
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Salvage_Duration_Multiplier 0.4

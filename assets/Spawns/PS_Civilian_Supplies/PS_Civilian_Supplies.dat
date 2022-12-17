@@ -1,0 +1,11 @@
+GUID d56b01a19e2b4986b388f61abff6d5c9
+Type Spawn
+ID 59091
+
+Tables 3
+Table_0_Spawn_ID 59005
+Table_0_Weight 15
+Table_1_Spawn_ID 59006
+Table_1_Weight 15
+Table_2_Spawn_ID 59066
+Table_2_Weight 2

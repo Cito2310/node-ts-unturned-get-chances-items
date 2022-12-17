@@ -1,0 +1,21 @@
+GUID c5061a5688da4027ab002a0ef4be3205
+Type Water
+Rarity Uncommon
+Useable Consumeable
+ID 59634
+
+Size_X 1
+Size_Y 1
+Size_Z 0.4
+
+Water 22
+
+Quality_Min 100
+
+Quest_Rewards 2
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 59635
+Quest_Reward_0_Amount 1
+Quest_Reward_1_Type Hint
+Quest_Reward_1_Text Empty Bottle Received
+Quest_Reward_1_Duration 1

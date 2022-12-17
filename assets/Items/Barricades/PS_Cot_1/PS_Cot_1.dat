@@ -1,0 +1,36 @@
+GUID f6517328ad58412a88cb38313486b7f3
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Build Bed
+ID 59864
+
+Size_X 2
+Size_Y 1
+Size_Z 0.4
+
+Health 500
+Range 4.5
+Radius 0.43
+Offset 0.48
+
+Explosion 19
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 59603
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 59218
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 59564
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 59202
+Blueprint_0_Supply_3_Amount 12
+Blueprint_0_Tool 59006
+Blueprint_0_Build 27
+
+PlacementAudioClip Sounds/WoodenPlacement.mp3
+
+Salvage_Duration_Multiplier 0.4

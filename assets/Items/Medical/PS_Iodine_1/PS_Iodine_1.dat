@@ -1,0 +1,28 @@
+GUID 9a77c13792334368a19a895ac1729821
+Type Medical
+Rarity Rare
+Useable Consumeable
+ID 59716
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Aid
+Disinfectant 25
+Health 5
+
+Amount 4
+Count_Min 4
+Count_Max 4
+
+Master_Bundle_Override prosur.masterbundle
+Bundle_Override_Path /Items/Medical/PS_Iodine
+
+Quest_Rewards 2
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 59717
+Quest_Reward_0_Amount 1
+Quest_Reward_1_Type Hint
+Quest_Reward_1_Text 3/5 Uses Left
+Quest_Reward_1_Duration 1

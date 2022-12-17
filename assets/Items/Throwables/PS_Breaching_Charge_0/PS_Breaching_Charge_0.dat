@@ -1,0 +1,43 @@
+GUID 2b2bfea6ee8e40ae8df1b893be863075
+Type Throwable
+Rarity Legendary
+Useable Throwable
+ID 59667
+
+Size_X 2
+Size_Y 2
+Size_Z 0.33
+
+Player_Damage 150
+Zombie_Damage 200
+Animal_Damage 200
+Barricade_Damage 850
+Structure_Damage 850
+Vehicle_Damage 2000
+Resource_Damage 2000
+Object_Damage 1000
+
+Range 13
+Explosion 59046
+
+Explosive
+Sticky
+
+Fuse_Length 2
+
+Strong_Throw_Force 900
+Weak_Throw_Force 700
+
+Explosion_Launch_Speed 30
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 59666
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 59016
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Supply_2_ID 59625
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Tool 59375
+Blueprint_0_Build 27

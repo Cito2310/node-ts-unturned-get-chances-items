@@ -1,0 +1,26 @@
+GUID 2d143e4e624b462b9148da9d438ddbf9
+Type Mask
+Rarity Rare
+Useable Clothing
+ID 59516
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Quality_Min 6
+Quality_Max 9
+
+Proof_Radiation
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 59527
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 59658
+Blueprint_0_Supply_1_Amount 3
+Blueprint_0_Supply_2_ID 59017
+Blueprint_0_Supply_2_Amount 2
+Blueprint_0_Tool 59376
+Blueprint_0_Build 27

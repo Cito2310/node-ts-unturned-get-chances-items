@@ -1,0 +1,30 @@
+GUID 7d254dd7b4a54e8bbddbe7703a21363d
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Glass
+ID 59739
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Health 1200
+Range 4
+Radius 0.5
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59009
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Tool 59003
+Blueprint_0_Build 27
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Use_Water_Height_Transparent_Sort
+
+Salvage_Duration_Multiplier 0.5

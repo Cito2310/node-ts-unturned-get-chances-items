@@ -1,0 +1,34 @@
+GUID 85aec5c8c5474daea5736195f414bf50
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Build Barricade
+ID 59552
+
+Health 100
+Range 4
+Radius 0.35
+Offset 0.38
+
+Explosion 36
+
+Vulnerable
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59552
+Blueprint_0_Product 59028
+Blueprint_0_Products 5
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27
+
+PlacementAudioClip Sounds/WoodenPlacement.mp3
+
+Salvage_Duration_Multiplier 0.1
+
+Bypass_Pickup_Ownership True

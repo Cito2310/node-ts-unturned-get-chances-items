@@ -1,0 +1,14 @@
+GUID 9c95ec8f431c4aed8795a23e70fe8914
+Type Food
+Rarity Rare
+Useable Consumeable
+ID 59630
+
+Size_X 1
+Size_Y 1
+Size_Z 0.35
+
+Food 25
+Health 15
+
+Quality_Min 66

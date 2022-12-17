@@ -1,0 +1,57 @@
+GUID 6fe54ce75d854a02b0790e6c8e7a7ccb
+Type Charge
+Rarity Legendary
+Useable Barricade
+Build Charge
+ID 59666
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Health 1
+Range 3
+Offset 0.1
+
+Player_Damage 250
+Zombie_Damage 200
+Animal_Damage 200
+Barricade_Damage 850
+Structure_Damage 850
+Vehicle_Damage 2000
+Resource_Damage 2000
+Object_Damage 1000
+
+Explosion_Launch_Speed 30
+
+Range2 13
+Explosion2 59046
+
+Explosion 36
+Vulnerable
+Unrepairable
+Proof_Explosion
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 5
+Blueprint_0_Supply_0_ID 59378
+Blueprint_0_Supply_0_Amount 7
+Blueprint_0_Supply_1_ID 59036
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 59016
+Blueprint_0_Supply_2_Amount 4
+Blueprint_0_Supply_3_ID 59028
+Blueprint_0_Supply_3_Amount 4
+Blueprint_0_Supply_4_ID 59007
+Blueprint_0_Supply_4_Amount 3
+Blueprint_0_Tool 59375
+Blueprint_0_Build 27
+
+Salvage_Duration_Multiplier 0.2
+
+Bypass_Pickup_Ownership True
+
+PlacementAudioClip Sounds/BeepPlacing.wav
+
+Allow_Placement_Inside_Clip_Volumes False

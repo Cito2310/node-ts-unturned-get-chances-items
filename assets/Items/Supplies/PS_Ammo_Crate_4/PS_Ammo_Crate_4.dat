@@ -1,0 +1,22 @@
+GUID 1fb7d904bfd445d9962e01ef6913f47b
+Type Supply
+Rarity Rare
+ID 59740
+
+Size_X 3
+Size_Y 2
+Size_Z 0.37
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59740
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 59325
+Blueprint_0_Output_0_Amount 3
+Blueprint_0_Output_1_ID 59681
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Build 30
+
+Master_Bundle_Override prosur.masterbundle
+Bundle_Override_Path /Items/Supplies/PS_Ammo_Crate_0

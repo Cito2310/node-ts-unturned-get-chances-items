@@ -1,0 +1,26 @@
+GUID 1a82d3eb856a4643a5cc5b8150aa376a
+Type Structure
+Rarity Rare
+Useable Structure
+Construct Roof
+ID 59824
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Health 900
+Range 6
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Structure
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59565
+Blueprint_0_Supply_0_Amount 5
+Blueprint_0_Tool 59003
+Blueprint_0_Build 27
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Salvage_Duration_Multiplier 0.5

@@ -1,0 +1,33 @@
+GUID 59bd9849fdac4159926bd3569eea769c
+Type Barricade
+Rarity Epic
+Useable Barricade
+Build Hatch
+ID 59506
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Health 2200
+Range 4
+Radius 0.5
+
+Locked
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 59233
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 59505
+Blueprint_0_Supply_1_Amount 4
+Blueprint_0_Supply_2_ID 59417
+Blueprint_0_Supply_2_Amount 4
+Blueprint_0_Tool 59003
+Blueprint_0_Build 27
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Salvage_Duration_Multiplier 0.1

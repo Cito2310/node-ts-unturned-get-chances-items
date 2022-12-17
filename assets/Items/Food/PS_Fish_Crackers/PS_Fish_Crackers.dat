@@ -1,0 +1,12 @@
+GUID 8b58fda0d3494ce2ad6bb1fe8ce8fa77
+Type Food
+Useable Consumeable
+ID 59058
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Food 25
+
+Quality_Min 50

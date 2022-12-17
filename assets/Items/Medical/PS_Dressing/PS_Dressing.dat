@@ -1,0 +1,27 @@
+GUID 59f7565930544fd4926c2a8952922b26
+Type Medical
+Rarity Epic
+Useable Consumeable
+ID 59172
+
+Size_X 1
+Size_Y 1
+Size_Z 0.32
+
+Aid
+Bleeding
+Health 33
+
+Disinfectant 3
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 59171
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Supply_1_ID 59564
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 59691
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Products 4
+Blueprint_0_Build 32

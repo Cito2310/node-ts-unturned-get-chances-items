@@ -1,0 +1,31 @@
+GUID dbc308a8a7cf4f049dda8ca98bb574f2
+Type Medical
+Rarity Epic
+Useable Consumeable
+ID 59356
+
+Size_X 1
+Size_Y 1
+Size_Z 0.285
+
+Virus 40
+Bleeding
+Health 85
+
+Quest_Rewards 2
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 59670
+Quest_Reward_0_Amount 1
+Quest_Reward_1_Type Hint
+Quest_Reward_1_Text Empty Syringe Received
+Quest_Reward_1_Duration 1
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 59691
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 59670
+Blueprint_0_Supply_1_Amount 4
+Blueprint_0_Products 4
+Blueprint_0_Build 27

@@ -1,0 +1,19 @@
+GUID f98b49171d154e169cbb47db9507eadd
+Type Supply
+Rarity Epic
+ID 59778
+
+Size_X 2
+Size_Y 2
+Size_Z 0.27
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59778
+Blueprint_0_Product 59424
+Blueprint_0_Products 2
+Blueprint_0_Build 27
+
+Master_Bundle_Override prosur.masterbundle
+Bundle_Override_Path /Items/Supplies/PS_Magbox_0

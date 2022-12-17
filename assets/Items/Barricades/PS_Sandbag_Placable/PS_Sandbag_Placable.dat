@@ -1,0 +1,31 @@
+GUID 8631b1a789e1492a89eb15c24cd5cf2a
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Build Barricade
+ID 59908
+
+Size_X 1
+Size_Y 1
+Size_Z 0.7
+
+Health 400
+Range 4
+Radius 0.4
+Offset 0.48
+
+Explosion 19
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 59002
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Supply_1_ID 59440
+Blueprint_0_Supply_1_Amount 4
+Blueprint_0_Build 27
+
+PlacementAudioClip Sounds/ClothPlacement.mp3
+
+Salvage_Duration_Multiplier 0.1

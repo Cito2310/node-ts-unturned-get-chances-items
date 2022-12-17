@@ -1,0 +1,14 @@
+GUID 6d75b62bc13e410795d3cd9d1832c3ad
+Type Food
+Rarity Rare
+Useable Consumeable
+ID 59663
+
+Size_X 1
+Size_Y 1
+Size_Z 0.28
+
+Quality_Min 50
+
+Food 50
+Water 60

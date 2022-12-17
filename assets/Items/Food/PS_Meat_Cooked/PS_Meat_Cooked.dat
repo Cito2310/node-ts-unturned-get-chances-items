@@ -1,0 +1,21 @@
+GUID 64b2badbe90f4a63b808d7037150f094
+Type Food
+Rarity Uncommon
+Useable Consumeable
+ID 59063
+
+Size_X 1
+Size_Y 1
+Size_Z 0.45
+
+Health 5
+Water 10
+Food 35
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supply_0_ID 59062
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Level 1
+Blueprint_0_Skill Cook
+Blueprint_0_Build 27

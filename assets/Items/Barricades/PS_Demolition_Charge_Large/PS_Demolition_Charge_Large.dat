@@ -1,0 +1,42 @@
+GUID 3b88337712cb4b478295c03745bd0ff3
+Type Charge
+Rarity Mythical	
+Useable Barricade
+Build Charge
+ID 59668
+
+Size_X 4
+Size_Y 2
+Size_Z 0.27
+
+Health 1
+Range 3
+Radius 0.2
+Offset 0.2
+
+Player_Damage 322
+Zombie_Damage 1000
+Animal_Damage 1000
+Barricade_Damage 2000
+Structure_Damage 2000
+Vehicle_Damage 2600
+Resource_Damage 1700
+Object_Damage 1000
+
+Explosion_Launch_Speed 50
+
+Range2 22
+Explosion2 59047
+
+Explosion 36
+Vulnerable
+Unrepairable
+Proof_Explosion
+
+Salvage_Duration_Multiplier 0.4
+
+Bypass_Pickup_Ownership True
+
+PlacementAudioClip Sounds/BeepPlacing.wav
+
+Allow_Placement_Inside_Clip_Volumes False

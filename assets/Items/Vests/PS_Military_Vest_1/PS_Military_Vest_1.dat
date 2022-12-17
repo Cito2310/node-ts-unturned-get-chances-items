@@ -1,0 +1,61 @@
+GUID ea494791c2f943319328ecbba32c4266
+Type Vest
+Rarity Epic
+Useable Clothing
+ID 59128
+
+Size_X 3
+Size_Y 3
+Size_Z 0.5
+
+Width 5
+Height 6
+
+Armor 0.55
+Armor_Explosion 0.7
+
+Blueprints 4
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 59128
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 59658
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 59417
+Blueprint_0_Output_1_Amount 2
+Blueprint_0_Tool 59004
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 59816
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Build 32
+
+Blueprint_2_Type Apparel
+Blueprint_2_Supplies 2
+Blueprint_2_Supply_0_ID 59128
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Supply_1_ID 59762
+Blueprint_2_Supply_1_Amount 1
+Blueprint_2_Product 59764
+Blueprint_2_Products 1
+Blueprint_2_State_Transfer
+Blueprint_2_Supply_1_Critical
+Blueprint_2_Build 27
+59127
+Blueprint_3_Type Apparel
+Blueprint_3_Supplies 2
+Blueprint_3_Supply_0_ID 59127
+Blueprint_3_Supply_0_Amount 1
+Blueprint_3_Supply_1_ID 59968
+Blueprint_3_Supply_1_Amount 1
+Blueprint_3_Supply_0_Critical
+Blueprint_3_State_Transfer
+Blueprint_3_Tool 59376
+Blueprint_3_Build 27
+
+
+
+Quality_Min 5
+Quality_Max 15
+
+Movement_Speed_Multiplier 0.95

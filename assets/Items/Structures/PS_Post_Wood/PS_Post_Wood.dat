@@ -1,0 +1,37 @@
+GUID d52cdc376b724e76b20eafb38de9fbaa
+Type Structure
+Rarity Common
+Useable Structure
+Construct Post
+ID 59208
+
+Size_X 1
+Size_Y 2
+Size_Z 0.475
+
+Health 400
+Range 6
+
+Explosion 19
+
+
+Blueprints 2
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59208
+Blueprint_0_Product 59208
+Blueprint_0_Products 1
+Blueprint_0_Tool 58999
+Blueprint_0_Tool_Critical
+Blueprint_0_Build 27
+
+Blueprint_1_Type Structure
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 59209
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Products 2
+Blueprint_1_Build 27
+
+PlacementAudioClip Sounds/WoodenPlacement.mp3
+
+Salvage_Duration_Multiplier 0.1

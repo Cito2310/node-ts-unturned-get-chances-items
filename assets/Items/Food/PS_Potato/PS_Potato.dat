@@ -1,0 +1,21 @@
+GUID 041a5e5e62a946d89b61daae7b9e93d5
+Type Food
+Rarity Uncommon
+Useable Consumeable
+ID 59229
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Quality_Min 50
+
+Food 25
+Water 5
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 59230
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Key Craft_Seed

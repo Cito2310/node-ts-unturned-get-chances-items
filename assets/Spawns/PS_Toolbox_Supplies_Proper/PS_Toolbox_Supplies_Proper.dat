@@ -1,0 +1,9 @@
+GUID 430fc7192b034fb1b1d6d7681a035103
+Type Spawn
+ID 59025
+
+Tables 2
+Table_0_Spawn_ID 59024
+Table_0_Weight 50
+Table_1_Spawn_ID 59023
+Table_1_Weight 15

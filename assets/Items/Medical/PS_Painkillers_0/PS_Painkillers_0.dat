@@ -1,0 +1,26 @@
+GUID 9e31df205156404488e385ca671713c1
+Type Medical
+Rarity Rare
+Useable Consumeable
+ID 59639
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Virus 3
+Broken
+Health 10
+Energy 50
+
+Quest_Rewards 2
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 59640
+Quest_Reward_0_Amount 1
+Quest_Reward_1_Type Hint
+Quest_Reward_1_Text 9/10 Uses Left
+Quest_Reward_1_Duration 1
+
+Amount 10
+Count_Min 10
+Count_Max 10

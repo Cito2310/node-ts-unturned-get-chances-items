@@ -1,0 +1,25 @@
+GUID 5014b9f5f1ad4870b2e9307d581ec45b
+Type Sight
+Rarity Rare
+ID 59384
+
+Size_X 1
+Size_Y 1
+Size_Z 0.13
+
+Holographic
+
+Calibers 1
+Caliber_0 58904
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59384
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 59000
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 59017
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27

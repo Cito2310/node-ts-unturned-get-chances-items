@@ -1,0 +1,25 @@
+GUID d86b4440fbff495990a68ccb32bea1f9
+Type Food
+Rarity Rare
+Useable Consumeable
+ID 59061
+
+Size_X 2
+Size_Y 2
+Size_Z 0.54
+
+Quality_Min 100
+
+Quest_Rewards 3
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 59049
+Quest_Reward_0_Amount 1
+Quest_Reward_1_Type Item
+Quest_Reward_1_ID 59056
+Quest_Reward_1_Amount 1
+Quest_Reward_2_Type Item
+Quest_Reward_2_ID 59053
+Quest_Reward_2_Amount 1
+
+Master_Bundle_Override prosur.masterbundle
+Bundle_Override_Path /Items/Supplies/PS_Military_Ration

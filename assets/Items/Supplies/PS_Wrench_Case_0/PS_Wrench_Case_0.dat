@@ -1,0 +1,39 @@
+GUID 76069449fec54cb298bc094e42414622
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Barricade
+ID 59970
+
+Size_X 2
+Size_Y 1
+Size_Z 0.5
+
+Health 200
+Range 4
+Radius 0.17
+Offset 0.21
+
+Explosion 36
+Vulnerable
+
+Salvage_Duration_Multiplier 0.1
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Bypass_Pickup_Ownership True
+
+
+Blueprints 2
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59575
+Blueprint_0_Supply_0_Amount 5
+Blueprint_0_Build 27
+Blueprint_1_Type Gear
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 59970
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 59575
+Blueprint_1_Output_0_Amount 5
+Blueprint_1_Build 27

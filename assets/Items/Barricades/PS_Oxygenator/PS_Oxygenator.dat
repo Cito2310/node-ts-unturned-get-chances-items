@@ -1,0 +1,23 @@
+GUID d8ff5cbaae544b798f2b3d9919e73518
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Oxygenator
+ID 59856
+
+Size_X 2
+Size_Y 2
+Size_Z 0.582
+
+Health 300
+Range 4
+Radius 0.45
+Offset 0.577
+
+Explosion 36
+
+Vulnerable
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Salvage_Duration_Multiplier 0.3

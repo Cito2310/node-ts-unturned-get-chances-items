@@ -1,0 +1,37 @@
+GUID fe86d009bc3f4883afe7b22f3b0d4b76
+Type Sight
+Rarity Rare
+ID 59654
+
+Size_X 2
+Size_Y 1
+Size_Z 0.165
+
+Spread 0.9
+Zoom 6
+
+Calibers 1
+Caliber_0 58904
+
+Blueprints 2
+
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59654
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 59384
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 59653
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Build 27
+
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 59384
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Supply_1_ID 59653
+Blueprint_1_Supply_1_Amount 1
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 59654
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Build 27

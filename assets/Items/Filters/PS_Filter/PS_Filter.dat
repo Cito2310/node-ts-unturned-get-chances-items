@@ -1,0 +1,23 @@
+GUID 52bfd1dd70f148a28fb5a80e649b1ce9
+Type Filter
+Rarity Rare
+Useable Filter
+ID 59527
+
+Size_X 1
+Size_Y 1
+Size_Z 0.23
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 59529
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 59530
+Blueprint_0_Supply_1_Amount 3
+Blueprint_0_Supply_2_ID 59028
+Blueprint_0_Supply_2_Amount 4
+Blueprint_0_Tool 59376
+Blueprint_0_Build 27
+
+Use_Auto_Icon_Measurements False

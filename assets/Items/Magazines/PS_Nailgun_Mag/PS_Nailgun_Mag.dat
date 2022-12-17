@@ -1,0 +1,39 @@
+GUID 750d522bb8314ae9848100fd5d9e7c27
+Type Magazine
+Rarity Rare
+ID 59955
+
+Size_X 1
+Size_Y 2
+Size_Z 0.3
+
+Amount 30
+Count_Min 11
+Count_Max 30
+
+Calibers 1
+Caliber_0 59955
+
+Tracer 59067
+
+Blueprints 3
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 58999
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 58999
+Blueprint_0_Tool_Critical
+Blueprint_0_Build 27
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 59955
+Blueprint_1_Build 30
+
+Blueprint_2_Type Gear
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 59241
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Supply_0_Critical
+Blueprint_2_Build 30
+
+Delete_Empty

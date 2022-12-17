@@ -1,0 +1,20 @@
+GUID 59732eba5636406290835fa5f4cdcfbb
+Type Supply
+Rarity Uncommon
+ID 59902
+
+Size_X 1
+Size_Y 2
+Size_Z 0.53
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59902
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 59002
+Blueprint_0_Output_0_Amount 3
+Blueprint_0_Output_1_ID 59901
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Tool 59005
+Blueprint_0_Build 27

@@ -1,0 +1,20 @@
+GUID c0c7ac28e5e443c4b8a178cb5869eeab
+Type Supply
+Rarity Legendary
+ID 59385
+
+Size_X 3
+Size_Y 1
+Size_Z 0.2
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59385
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 59567
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 59202
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27

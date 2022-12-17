@@ -1,0 +1,21 @@
+GUID 0a543e5b37a64163ac3a7bfa2acf4bb4
+Type Fuel
+Rarity Epic
+Useable Fuel
+ID 59959
+
+Size_X 3
+Size_Y 3
+Size_Z 0.61
+
+Fuel 6000
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 59519
+Blueprint_0_Supply_0_Amount 5
+Blueprint_0_Supply_1_ID 59625
+Blueprint_0_Supply_1_Amount 5
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27

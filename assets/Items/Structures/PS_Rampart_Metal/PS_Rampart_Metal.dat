@@ -1,0 +1,26 @@
+GUID 31363713294a4387a1167b62d8cbb79c
+Type Structure
+Rarity Rare
+Useable Structure
+Construct Rampart
+ID 59467
+
+Size_X 2
+Size_Y 1
+Size_Z 0.3
+
+Health 1600
+Range 6
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Structure
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59009
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Tool 59003
+Blueprint_0_Build 27
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Salvage_Duration_Multiplier 0.6

@@ -1,0 +1,31 @@
+GUID 25bb2ea9ea894b18a3f40ae0a7c1a074
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Build Barricade
+ID 59821
+
+Size_X 1
+Size_Y 1
+Size_Z 0.6
+
+Health 80
+Range 4
+Radius 0.22
+Offset 0.23
+
+Explosion 19
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supply_0_ID 59028
+Blueprint_0_Supply_0_Amount 7
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27
+
+Salvage_Duration_Multiplier 0.2
+
+PlacementAudioClip Sounds/WoodenPlacement.mp3
+
+Bypass_Pickup_Ownership True

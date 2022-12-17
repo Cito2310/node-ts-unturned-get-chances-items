@@ -1,0 +1,30 @@
+GUID 2e07da39b4ca41778af73758c3896376
+Type Structure
+Rarity Epic
+Useable Structure
+Construct Wall
+ID 59487
+
+Size_X 2
+Size_Y 1
+Size_Z 0.3
+
+Health 3200
+Range 6
+
+Explosion 36
+
+
+Blueprints 1
+Blueprint_0_Type Structure
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 59471
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 59505
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Tool 59003
+Blueprint_0_Build 27
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Salvage_Duration_Multiplier 0.8

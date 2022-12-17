@@ -1,0 +1,42 @@
+GUID f58c38da11a646b48a6ceeec8d7fa83c
+Type Magazine
+Rarity Rare
+ID 59315
+
+Size_X 1
+Size_Y 2
+Size_Z 0.41
+
+Amount 22
+Count_Min 11
+Count_Max 22
+
+Calibers 1
+Caliber_0 59315
+
+Tracer 59040
+
+Blueprints 5
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 58999
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 58999
+Blueprint_0_Tool_Critical
+Blueprint_0_Build 27
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 59263
+Blueprint_1_Build 30
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 59315
+Blueprint_2_Build 30
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 59858
+Blueprint_3_Build 30
+Blueprint_4_Type Ammo
+Blueprint_4_Supplies 1
+Blueprint_4_Supply_0_ID 59859
+Blueprint_4_Build 30

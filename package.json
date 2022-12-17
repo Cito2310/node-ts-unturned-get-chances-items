@@ -1,18 +1,25 @@
 {
   "name": "ts-get-table-spawn-unturned",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc && npx pkg -t node16-macos-x64,node16-linux-x64,node16-win-x64 dir/index.js"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/cli-color": "^2.0.2",
+    "@types/inquirer": "^9.0.3",
     "@types/node": "^18.11.15",
+    "@types/prompts": "^2.4.2",
     "@types/uuid": "^9.0.0"
   },
   "dependencies": {
+    "cli-color": "^2.0.3",
+    "pkg": "^5.8.0",
+    "prompts": "^2.4.2",
     "uuid": "^9.0.0"
   }
 }

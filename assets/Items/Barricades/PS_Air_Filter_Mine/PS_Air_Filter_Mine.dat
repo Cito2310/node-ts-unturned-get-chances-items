@@ -1,0 +1,56 @@
+GUID 8d23bf12483749969d51c6e3760ddae4
+Type Trap
+Rarity Epic
+Useable Barricade
+Build Spike
+ID 59887
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Health 30
+Range 4
+Radius 0.1
+Offset 0.06
+
+Player_Damage 100
+Zombie_Damage 200
+Animal_Damage 200
+Barricade_Damage 60
+Structure_Damage 60
+Vehicle_Damage 600
+Resource_Damage 1700
+Object_Damage 1000
+
+Explosion_Launch_Speed 20
+
+Trap_Setup_Delay 3
+
+Range2 10
+Explosion2 59061
+Explosive
+
+Explosion 36
+
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 59198
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 59281
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Supply_2_ID 59016
+Blueprint_0_Supply_2_Amount 2
+Blueprint_0_Supply_3_ID 59009
+Blueprint_0_Supply_3_Amount 2
+Blueprint_0_Supply_0_Critical
+Blueprint_0_Tool 59376
+Blueprint_0_Products 2
+Blueprint_0_Build 32
+
+PlacementAudioClip Sounds/BeepPlacing1.mp3
+
+Salvage_Duration_Multiplier 0.2

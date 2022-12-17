@@ -1,0 +1,43 @@
+GUID a64152e581884244a18ced7d9f76183d
+Type Trap
+Rarity Legendary
+Useable Barricade
+Build Spike
+ID 59253
+
+Size_X 3
+Size_Y 3
+Size_Z 0.5
+
+Health 65000
+Range 4
+Radius 0.05
+Offset 0.075
+
+Player_Damage 111
+Zombie_Damage 333
+Animal_Damage 222
+Barricade_Damage 1000
+Structure_Damage 500
+Vehicle_Damage 5000
+Resource_Damage 5000
+Object_Damage 5000
+
+Range2 12
+Explosion2 59010
+Explosive
+
+Explosion 36
+
+Trap_Setup_Delay 5
+
+Trap_Cooldown 30
+
+Unrepairable
+Unpickupable
+Proof_Explosion
+Can_Be_Damaged False
+
+Salvage_Duration_Multiplier 0.1
+
+Explosion_Launch_Speed 20

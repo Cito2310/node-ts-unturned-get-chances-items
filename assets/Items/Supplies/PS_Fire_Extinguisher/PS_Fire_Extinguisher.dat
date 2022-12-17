@@ -1,0 +1,37 @@
+GUID 2cffe4663c9c4eb7bc95ee12113a66be
+Type Tank
+Rarity Uncommon
+Useable Barricade
+Build Tank
+ID 59606
+
+Size_X 2
+Size_Y 3
+Size_Z 0.475
+
+Health 300
+Range 4
+Radius 0.4
+Offset 0.49
+
+Source Water
+Resource 5
+
+Explosion 36
+
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59606
+Blueprint_0_Product 59011
+Blueprint_0_Products 1
+Blueprint_0_Tool 59003
+Blueprint_0_Build 27
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Salvage_Duration_Multiplier 0.2
+
+Bypass_Pickup_Ownership True

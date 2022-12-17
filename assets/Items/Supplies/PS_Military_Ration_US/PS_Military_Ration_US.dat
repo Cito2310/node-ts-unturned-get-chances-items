@@ -1,0 +1,23 @@
+GUID eb37b4f582134b48a93bb3a244a47f54
+Type Food
+Rarity Epic
+Useable Consumeable
+ID 59662
+
+Size_X 1
+Size_Y 2
+Size_Z 0.62
+
+Quality_Min 100
+Quality_Max 100
+
+Quest_Rewards 3
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 59663
+Quest_Reward_0_Amount 1
+Quest_Reward_1_Type Item
+Quest_Reward_1_ID 59394
+Quest_Reward_1_Amount 1
+Quest_Reward_2_Type Item
+Quest_Reward_2_ID 59630
+Quest_Reward_2_Amount 1

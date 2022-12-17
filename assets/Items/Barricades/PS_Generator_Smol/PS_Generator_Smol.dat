@@ -1,0 +1,38 @@
+GUID 2215efa5599e4cc69661dd490ff45e29
+Type Generator
+Rarity Rare
+Useable Barricade
+Build Generator
+ID 59491
+
+Size_X 2
+Size_Y 2
+Size_Z 0.582
+
+Health 400
+Range 4
+Radius 0.5
+Offset 0.75
+
+Capacity 2000
+Wirerange 18.0
+Burn 50
+
+Explosion 36
+
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 59129
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 59011
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 59806
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Tool 59376
+Blueprint_0_Build 27
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Salvage_Duration_Multiplier 0.3

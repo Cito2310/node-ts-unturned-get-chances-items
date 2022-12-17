@@ -1,0 +1,42 @@
+GUID b09937f9b15c4c76a3075b93d30c9e7b
+Type Barricade
+Rarity Epic
+Useable Barricade
+Build Barricade
+ID 59797
+
+Size_X 3
+Size_Y 2
+Size_Z 0.37
+
+
+Blueprints 2
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59797
+Blueprint_0_Product 59658
+Blueprint_0_Products 5
+Blueprint_0_Build 27
+
+Blueprint_1_Type Gear
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 59658
+Blueprint_1_Supply_0_Amount 5
+Blueprint_1_Product 59797
+Blueprint_1_Products 1
+Blueprint_1_Build 27
+
+Health 60
+Range 4
+Radius 0.17
+Offset 0.19
+
+Explosion 37
+
+Vulnerable
+
+Salvage_Duration_Multiplier 0.1
+
+PlacementAudioClip Sounds/ClothPlacement.mp3
+
+Bypass_Pickup_Ownership True

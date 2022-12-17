@@ -1,0 +1,23 @@
+GUID 16b59a85ea624caf8cbf5f2e763bc25e
+Type Supply
+Rarity Rare
+ID 59762
+
+Size_X 1
+Size_Y 2
+Size_Z 0.58
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 59130
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 59626
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Build 27
+
+Blueprint_0_Conditions 1
+Blueprint_0_Condition_0_Type Flag_Bool
+Blueprint_0_Condition_0_ID 59142
+Blueprint_0_Condition_0_Value True
+Blueprint_0_Condition_0_Logic Equal

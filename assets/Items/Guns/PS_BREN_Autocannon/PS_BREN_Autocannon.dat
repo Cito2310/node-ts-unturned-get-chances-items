@@ -1,0 +1,78 @@
+GUID 33cdf27c563340eaa4b524adc7db5fd6
+Type Gun
+Rarity Legendary
+Useable Gun
+Slot Primary
+ID 59507
+
+Size_X 6
+Size_Y 2
+Size_Z 0.35
+
+Magazine 59508
+
+Ammo_Min 1
+Ammo_Max 1
+
+Safety
+Auto
+
+Caliber 59507
+
+Range 300
+Firerate 4
+Action Trigger
+
+Player_Damage 60
+Player_Leg_Multiplier 0.4
+Player_Arm_Multiplier 0.4
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 100
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 100
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 5
+Structure_Damage 5
+Vehicle_Damage 50
+Resource_Damage 80
+Object_Damage 80
+
+Spread_Aim 0.05
+Spread_Hip 0.1
+
+Muzzle 59001
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 59511 
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 59510
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 59509 
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 59963
+Blueprint_0_Supply_3_Amount 1
+Blueprint_0_Tool 59376
+Blueprint_0_Build 27
+
+Can_Player_Equip False
+Infinite_Ammo True
+Allow_Magazine_Change False
+
+Gunshot_Rolloff_Distance 1100
+
+BladeID 2
+
+Use_Auto_Icon_Measurements False
+
+Player_Damage_Bleeding Always

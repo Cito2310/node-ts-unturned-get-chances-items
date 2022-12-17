@@ -1,0 +1,19 @@
+GUID 10486274295f460b961f89942e2c7ef7
+Type Medical
+Rarity Common
+Useable Consumeable
+ID 59175
+
+Size_X 1
+Size_Y 2
+Size_Z 0.55
+
+Aid
+Broken
+Health 3
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supply_0_ID 59000
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Build 27

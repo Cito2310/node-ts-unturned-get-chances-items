@@ -1,0 +1,21 @@
+GUID 0006a54aca8d4daf80c972e8293aef8d
+Type Spawn
+ID 59294
+
+Tables 8
+Table_0_Spawn_ID 59282
+Table_0_Weight 50
+Table_1_Spawn_ID 59066
+Table_1_Weight 40
+Table_2_Asset_ID 59236
+Table_2_Weight 25
+Table_3_Asset_ID 59586
+Table_3_Weight 25
+Table_4_Asset_ID 59568
+Table_4_Weight 25
+Table_5_Asset_ID 59555
+Table_5_Weight 25
+Table_6_Asset_ID 59530
+Table_6_Weight 25
+Table_7_Asset_ID 59279
+Table_7_Weight 20

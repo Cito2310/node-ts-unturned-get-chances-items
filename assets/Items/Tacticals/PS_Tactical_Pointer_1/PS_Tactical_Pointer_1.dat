@@ -1,0 +1,26 @@
+GUID ab8aa0f9ab60430aaa44f449b00abaef
+Type Tactical
+Rarity Rare
+ID 59495
+
+Size_X 1
+Size_Y 1
+Size_Z 0.375
+
+Spread 0.85
+
+Calibers 1
+Caliber_0 58902
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59495
+Blueprint_0_Product 59016
+Blueprint_0_Products 1
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27
+
+Use_Auto_Icon_Measurements False
+
+Laser

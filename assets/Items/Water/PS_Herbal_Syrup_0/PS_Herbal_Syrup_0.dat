@@ -1,0 +1,22 @@
+GUID 5b95dac08db7448291dca1eddb3a97ac
+Type Barricade
+Rarity Legendary
+Useable Barricade
+Build Barricade
+ID 59706
+
+Size_X 1
+Size_Y 2
+Size_Z 0.45
+
+Health 10
+Range 4
+Radius 0.27
+Offset 0.295
+
+Explosion 97
+Vulnerable
+
+PlacementAudioClip Sounds/GlassPlacement.mp3
+
+Salvage_Duration_Multiplier 0.1

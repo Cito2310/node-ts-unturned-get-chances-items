@@ -1,0 +1,20 @@
+GUID 8052b67356a74c5c92db73e13f55aea7
+Type Food
+Rarity Uncommon
+Useable Consumeable
+ID 59244	
+
+Size_X 1
+Size_Y 1
+Size_Z 0.27
+
+Health 25
+Food 66
+Water 88
+
+Quality_Min 75
+
+Quest_Rewards 1
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 59030
+Quest_Reward_0_Amount 1

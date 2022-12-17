@@ -1,0 +1,29 @@
+GUID 64e8f0ac421a4a8b961f9739db935d15
+Type Storage
+Rarity Rare
+Useable Barricade
+Build Storage
+ID 59893
+
+Size_X 2
+Size_Y 1
+Size_Z 0.45
+
+Health 200
+Range 4
+Radius 0.14
+Offset 0.17
+
+Storage_X 6
+Storage_Y 2
+
+Explosion 19
+Vulnerable
+
+Should_Close_When_Outside_Range True
+
+PlacementAudioClip Sounds/WoodenPlacement.mp3
+
+Salvage_Duration_Multiplier 0.2
+
+Bypass_Pickup_Ownership True

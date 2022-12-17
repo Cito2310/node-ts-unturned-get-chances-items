@@ -1,0 +1,18 @@
+GUID 570e52444c0647f79fd67976d0e8c78c
+Type Supply
+Rarity Uncommon
+ID 59693
+
+Size_X 1
+Size_Y 2
+Size_Z 0.38
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59693
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 59234
+Blueprint_0_Output_0_Amount 2
+Blueprint_0_Tool 59005
+Blueprint_0_Build 27

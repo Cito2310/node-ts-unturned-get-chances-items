@@ -1,0 +1,24 @@
+GUID b835762f08fe457aa6f07b7422ee9e36
+Type Supply
+Rarity Legendary
+ID 59938
+
+Size_X 5
+Size_Y 2
+Size_Z 0.45
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59938
+Blueprint_0_Outputs 3
+Blueprint_0_Output_0_ID 59930
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 59929
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Output_2_ID 59893
+Blueprint_0_Output_2_Amount 1
+Blueprint_0_Build 27
+
+Master_Bundle_Override prosur.masterbundle
+Bundle_Override_Path /Items/Barricades/PS_Weapon_Case_0

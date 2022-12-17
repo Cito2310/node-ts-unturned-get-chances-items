@@ -1,0 +1,24 @@
+GUID 1482d0b49b8445b887b69916b6518daa
+Type Sight
+Rarity Rare
+ID 59410
+
+Size_X 1
+Size_Y 1
+Size_Z 0.13
+
+
+Calibers 1
+Caliber_0 58901
+
+Holographic
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59410
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 59000
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27

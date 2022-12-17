@@ -1,0 +1,247 @@
+GUID 43a0f79b73b143ef9fcffa1b92b119ff
+Type Barricade
+Rarity Epic
+Useable Barricade
+Build Barricade
+ID 59374
+
+Size_X 5
+Size_Y 4
+Size_Z 0.64
+59944
+Health 300
+
+Range 4
+Radius 0.27
+Offset 0.315
+
+Explosion 36
+
+Vulnerable
+
+Use_Auto_Icon_Measurements False
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Salvage_Duration_Multiplier 0.1
+
+Bypass_Pickup_Ownership True
+
+Blueprints 16
+
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 59377
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 59009
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Product 59263
+Blueprint_0_Products 1
+Blueprint_0_Tool 59374
+Blueprint_0_Tool_Critical
+Blueprint_0_Build 30
+
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 59377
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Supply_1_ID 59009
+Blueprint_1_Supply_1_Amount 1
+Blueprint_1_Product 59246
+Blueprint_1_Products 1
+Blueprint_1_Tool 59374
+Blueprint_1_Tool_Critical
+Blueprint_1_Build 30
+
+Blueprint_2_Type Tool
+Blueprint_2_Supplies 2
+Blueprint_2_Supply_0_ID 59377
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Supply_1_ID 59009
+Blueprint_2_Supply_1_Amount 1
+Blueprint_2_Product 59325
+Blueprint_2_Products 1
+Blueprint_2_Tool 59374
+Blueprint_2_Tool_Critical
+Blueprint_2_Build 30
+
+Blueprint_3_Type Tool
+Blueprint_3_Supplies 2
+Blueprint_3_Supply_0_ID 59377
+Blueprint_3_Supply_0_Amount 2
+Blueprint_3_Supply_1_ID 59009
+Blueprint_3_Supply_1_Amount 1
+Blueprint_3_Product 59288
+Blueprint_3_Products 1
+Blueprint_3_Tool 59374
+Blueprint_3_Tool_Critical
+Blueprint_3_Build 30
+
+Blueprint_4_Type Tool
+Blueprint_4_Supplies 3
+Blueprint_4_Supply_0_ID 59377
+Blueprint_4_Supply_0_Amount 4
+Blueprint_4_Supply_1_ID 59627
+Blueprint_4_Supply_1_Amount 1
+Blueprint_4_Supply_2_ID 59009
+Blueprint_4_Supply_2_Amount 3
+Blueprint_4_Product 59311
+Blueprint_4_Products 1
+Blueprint_4_Tool 59374
+Blueprint_4_Tool_Critical
+Blueprint_4_Build 30
+
+Blueprint_5_Type Tool
+Blueprint_5_Supplies 3
+Blueprint_5_Supply_0_ID 59377
+Blueprint_5_Supply_0_Amount 4
+Blueprint_5_Supply_1_ID 59008
+Blueprint_5_Supply_1_Amount 1
+Blueprint_5_Supply_2_ID 59009
+Blueprint_5_Supply_2_Amount 1
+Blueprint_5_Product 59291
+Blueprint_5_Products 1
+Blueprint_5_Tool 59374
+Blueprint_5_Tool_Critical
+Blueprint_5_Build 30
+
+Blueprint_6_Type Tool
+Blueprint_6_Supplies 3
+Blueprint_6_Supply_0_ID 59627
+Blueprint_6_Supply_0_Amount 3
+Blueprint_6_Supply_1_ID 59028
+Blueprint_6_Supply_1_Amount 12
+Blueprint_6_Supply_2_ID 59008
+Blueprint_6_Supply_2_Amount 1
+Blueprint_6_Product 59492
+Blueprint_6_Products 2
+Blueprint_6_Tool 59374
+Blueprint_6_Tool_Critical
+Blueprint_6_Build 30
+
+Blueprint_7_Type Tool
+Blueprint_7_Supplies 4
+Blueprint_7_Supply_0_ID 59377
+Blueprint_7_Supply_0_Amount 4
+Blueprint_7_Supply_1_ID 59007
+Blueprint_7_Supply_1_Amount 3
+Blueprint_7_Supply_2_ID 59009
+Blueprint_7_Supply_2_Amount 3
+Blueprint_7_Supply_3_ID 59131
+Blueprint_7_Supply_3_Amount 1
+Blueprint_7_Product 59660
+Blueprint_7_Products 2
+Blueprint_7_Tool 59374
+Blueprint_7_Tool_Critical
+Blueprint_7_Build 30
+
+Blueprint_8_Type Tool
+Blueprint_8_Supplies 4
+Blueprint_8_Supply_0_ID 59377
+Blueprint_8_Supply_0_Amount 5
+Blueprint_8_Supply_1_ID 59007
+Blueprint_8_Supply_1_Amount 4
+Blueprint_8_Supply_2_ID 59009
+Blueprint_8_Supply_2_Amount 4
+Blueprint_8_Supply_3_ID 59131
+Blueprint_8_Supply_3_Amount 1
+Blueprint_8_Product 59656
+Blueprint_8_Products 4
+Blueprint_8_Tool 59374
+Blueprint_8_Tool_Critical
+Blueprint_8_Build 30
+
+Blueprint_9_Type Tool
+Blueprint_9_Supplies 4
+Blueprint_9_Supply_0_ID 59377
+Blueprint_9_Supply_0_Amount 5
+Blueprint_9_Supply_1_ID 59007
+Blueprint_9_Supply_1_Amount 4
+Blueprint_9_Supply_2_ID 59009
+Blueprint_9_Supply_2_Amount 4
+Blueprint_9_Supply_3_ID 59131
+Blueprint_9_Supply_3_Amount 1
+Blueprint_9_Product 59655
+Blueprint_9_Products 4
+Blueprint_9_Tool 59374
+Blueprint_9_Tool_Critical
+Blueprint_9_Build 30
+
+Blueprint_10_Type Tool
+Blueprint_10_Supplies 3
+Blueprint_10_Supply_0_ID 59377
+Blueprint_10_Supply_0_Amount 4
+Blueprint_10_Supply_1_ID 59009
+Blueprint_10_Supply_1_Amount 2
+Blueprint_10_Supply_2_ID 59378
+Blueprint_10_Supply_2_Amount 1
+Blueprint_10_Product 59657
+Blueprint_10_Products 1
+Blueprint_10_Tool 59374
+Blueprint_10_Tool_Critical
+Blueprint_10_Build 30
+
+Blueprint_11_Type Tool
+Blueprint_11_Supplies 3
+Blueprint_11_Supply_0_ID 59378
+Blueprint_11_Supply_0_Amount 3
+Blueprint_11_Supply_1_ID 59680
+Blueprint_11_Supply_1_Amount 4
+Blueprint_11_Supply_2_ID 59009
+Blueprint_11_Supply_2_Amount 4
+Blueprint_11_Product 59390
+Blueprint_11_Products 1
+Blueprint_11_Tool 59375
+Blueprint_11_Tool_Critical
+Blueprint_11_Build 30
+
+Blueprint_12_Type Tool
+Blueprint_12_Supplies 3
+Blueprint_12_Supply_0_ID 59714
+Blueprint_12_Supply_0_Amount 1
+Blueprint_12_Supply_1_ID 59680
+Blueprint_12_Supply_1_Amount 1
+Blueprint_12_Supply_2_ID 59009
+Blueprint_12_Supply_2_Amount 2
+Blueprint_12_Product 59388
+Blueprint_12_Products 1
+Blueprint_12_Tool 59375
+Blueprint_12_Tool_Critical
+Blueprint_12_Build 30
+
+Blueprint_13_Type Gear
+Blueprint_13_Supplies 1
+Blueprint_13_Supply_0_ID 59374
+Blueprint_13_Product 59374
+Blueprint_13_Products 1
+Blueprint_13_Tool 58999
+Blueprint_13_Tool_Critical
+Blueprint_13_Build 27
+
+Blueprint_14_Type Tool
+Blueprint_14_Supplies 3
+Blueprint_14_Supply_0_ID 59680
+Blueprint_14_Supply_0_Amount 10
+Blueprint_14_Supply_1_ID 59009
+Blueprint_14_Supply_1_Amount 2
+Blueprint_14_Supply_2_ID 59008
+Blueprint_14_Supply_2_Amount 1
+Blueprint_14_Product 59835
+Blueprint_14_Products 1
+Blueprint_14_Tool 59374
+Blueprint_14_Tool_Critical
+Blueprint_14_Build 30
+
+Blueprint_15_Type Tool
+Blueprint_15_Supplies 3
+Blueprint_15_Supply_0_ID 59680
+Blueprint_15_Supply_0_Amount 2
+Blueprint_15_Supply_1_ID 59378
+Blueprint_15_Supply_1_Amount 2
+Blueprint_15_Supply_2_ID 59009
+Blueprint_15_Supply_2_Amount 4
+Blueprint_15_Product 59944
+Blueprint_15_Products 1
+Blueprint_15_Tool 59374
+Blueprint_15_Tool_Critical
+Blueprint_15_Build 30

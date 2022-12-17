@@ -1,0 +1,32 @@
+GUID 7a244a60998c4ecc854c24f8778790de
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Cage
+ID 59886
+
+Size_X 1
+Size_Y 1
+Size_Z 0.5
+
+Health 250
+Range 4
+Offset 0.15
+
+Explosion 36
+
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 59585
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 59009
+Blueprint_0_Supply_1_Amount 3
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Salvage_Duration_Multiplier 0.3

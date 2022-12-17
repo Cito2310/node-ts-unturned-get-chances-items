@@ -1,0 +1,38 @@
+GUID 0fcddbf3d97e42d484ab1af529c33108
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Spot
+ID 59885
+
+Size_X 2
+Size_Y 3
+
+Size_Z 0.69
+
+Health 250
+Range 4
+Radius 0.5
+Offset 1
+
+Explosion 36
+
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 59585
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 59009
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 59564
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 59007
+Blueprint_0_Supply_3_Amount 2
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Salvage_Duration_Multiplier 0.3

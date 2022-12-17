@@ -1,0 +1,17 @@
+GUID 15add61a146844429574f3d300bb4ced
+Type Supply
+Rarity Rare
+ID 59658
+
+Size_X 2
+Size_Y 2
+Size_Z 0.37
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59658
+Blueprint_0_Product 59002
+Blueprint_0_Products 4
+Blueprint_0_Tool 59005
+Blueprint_0_Build 32

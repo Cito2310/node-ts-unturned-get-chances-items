@@ -1,0 +1,15 @@
+GUID 162daf63827a43fca83c4eb88136ca81
+Type Food
+Rarity Uncommon
+Useable Consumeable
+ID 59195	
+
+Size_X 1
+Size_Y 1
+Size_Z 0.27
+
+Health 15
+Food 30
+Water 41
+
+Quality_Min 75

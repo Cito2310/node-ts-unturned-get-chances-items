@@ -1,0 +1,13 @@
+GUID fd3866f026894a3f9396a2676d824343
+Type Food
+Useable Consumeable
+ID 59243
+
+Size_X 1
+Size_Y 1
+Size_Z 0.39
+
+Food 14
+Water 6
+
+Quality_Min 50

@@ -1,0 +1,17 @@
+GUID 343032f041f1480e9c0c3f8958a8504a
+Type Supply
+Rarity Rare
+ID 59401
+
+Size_X 1
+Size_Y 2
+Size_Z 0.45
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59401
+Blueprint_0_Product 59002
+Blueprint_0_Products 3
+Blueprint_0_Tool 59005
+Blueprint_0_Build 32

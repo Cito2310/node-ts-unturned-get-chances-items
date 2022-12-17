@@ -1,0 +1,48 @@
+GUID ed54a3bca50940748702a94d742db4e1
+Type Magazine
+Rarity Legendary
+ID 59929
+
+Size_X 2
+Size_Y 2
+Size_Z 0.29
+
+Amount 20
+Count_Min 9
+Count_Max 20
+
+Calibers 1
+Caliber_0 59929
+
+Tracer 59040
+
+Blueprints 3
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 58999
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 58999
+Blueprint_0_Tool_Critical
+Blueprint_0_Build 27
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 59929
+Blueprint_1_Build 30
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 59944
+Blueprint_2_Build 30
+
+Range 6
+Player_Damage 15
+Zombie_Damage 55
+Animal_Damage 66
+Barricade_Damage 12
+Structure_Damage 12
+Vehicle_Damage 35
+Resource_Damage 222
+Object_Damage 50
+Explosion 59065
+Explosive
+
+Explosion_Launch_Speed 0

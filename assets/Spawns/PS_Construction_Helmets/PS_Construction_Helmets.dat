@@ -1,0 +1,9 @@
+GUID 59e773d750854b15b33c5389c764769a
+Type Spawn
+ID 59080
+
+Tables 2
+Table_0_Asset_ID 59546
+Table_0_Weight 80
+Table_1_Asset_ID 59547
+Table_1_Weight 20

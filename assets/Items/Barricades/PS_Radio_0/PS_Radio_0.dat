@@ -1,0 +1,24 @@
+GUID a1509579e63140d4a4078826eafd5a02
+Type Barricade
+Useable Barricade
+Build Stereo
+Rarity Epic
+ID 59828
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Health 50
+Range 4
+Radius 0.17
+Offset 0.2
+
+Explosion 36
+Vulnerable
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Salvage_Duration_Multiplier 0.3
+
+Bypass_Pickup_Ownership True

@@ -1,0 +1,31 @@
+GUID 519f8903ddd44a8ea6da85860fa3b212
+Type Barricade
+Rarity Legendary
+Useable Barricade
+Build Barricade
+ID 59579
+
+Size_X 1
+Size_Y 1
+Size_Z 0.325
+
+Health 50
+Range 4
+Radius 0.16
+Offset 0.19
+
+Explosion 36
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59579
+Blueprint_0_Product 59028
+Blueprint_0_Products 2
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27
+
+Salvage_Duration_Multiplier 0.1
+
+Bypass_Pickup_Ownership True

@@ -1,0 +1,19 @@
+GUID e0821b3b66744d358395f52eb51f7118
+Type Food
+Rarity Uncommon
+Useable Consumeable
+ID 59057	
+
+Size_X 1
+Size_Y 1
+Size_Z 0.27
+
+Food 50
+Water 30
+
+Quality_Min 75
+
+Quest_Rewards 1
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 59030
+Quest_Reward_0_Amount 1

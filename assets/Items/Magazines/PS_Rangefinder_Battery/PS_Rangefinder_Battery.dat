@@ -1,0 +1,15 @@
+GUID a409f2d7eb7f46ff9b4dcbf2bfd3e97e
+Type Magazine
+Rarity Epic
+ID 59884
+
+Size_X 18
+Size_Y 18
+Size_Z 18
+
+Amount 100
+Count_Min 1
+Count_Max 100
+
+Calibers 1
+Caliber_0 59507

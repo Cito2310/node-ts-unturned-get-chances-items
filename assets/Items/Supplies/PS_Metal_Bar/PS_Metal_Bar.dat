@@ -1,0 +1,48 @@
+GUID 6cd0bc0140e7454d85761e12cd2c7361
+Type Supply
+Rarity Common
+ID 59009
+
+Size_X 2
+Size_Y 1
+Size_Z 0.2
+
+Blueprints 4
+
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59000
+Blueprint_0_Supply_0_Amount 5
+Blueprint_0_Tool 59003
+Blueprint_0_Build 27
+
+Blueprint_1_Type Gear
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 59528
+Blueprint_1_Supply_0_Amount 5
+Blueprint_1_Supply_1_ID 59529
+Blueprint_1_Supply_1_Amount 1
+Blueprint_1_Products 5
+Blueprint_1_Level 1
+Blueprint_1_Skill Cook
+Blueprint_1_Build 27
+
+Blueprint_2_Type Gear
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 59009
+Blueprint_2_Outputs 1
+Blueprint_2_Output_0_ID 59000
+Blueprint_2_Output_0_Amount 5
+Blueprint_2_Tool 59003
+Blueprint_2_Build 27
+
+Blueprint_3_Type Gear
+Blueprint_3_Supplies 2
+Blueprint_3_Supply_0_ID 59713
+Blueprint_3_Supply_0_Amount 1
+Blueprint_3_Supply_1_ID 59529
+Blueprint_3_Supply_1_Amount 2
+Blueprint_3_Products 10
+Blueprint_3_Level 1
+Blueprint_3_Skill Cook
+Blueprint_3_Build 27

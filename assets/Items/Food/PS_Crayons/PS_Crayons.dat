@@ -1,0 +1,13 @@
+GUID 5f3c26e2c5b7480eb27623b0d26d026a
+Type Food
+Useable Consumeable
+ID 59182
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Vision 30
+Food 5
+
+Quality_Min 90

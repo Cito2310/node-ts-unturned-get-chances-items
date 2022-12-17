@@ -1,0 +1,29 @@
+GUID 5bf6e543f65649dfb92aed2232cd6190
+Type Barricade
+Rarity Common
+Useable Barricade
+Build Barricade
+ID 59953
+
+Size_X 2
+Size_Y 2
+Size_Z 0.56
+
+Health 200
+Range 4
+Radius 0.1
+Offset 0.14
+
+Explosion 19
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supply_0_ID 59202
+Blueprint_0_Supply_0_Amount 9
+Blueprint_0_Tool 59006
+Blueprint_0_Build 27
+
+PlacementAudioClip Sounds/WoodenPlacement.mp3
+
+Salvage_Duration_Multiplier 0.2

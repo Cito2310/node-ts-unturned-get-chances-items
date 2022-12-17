@@ -1,0 +1,17 @@
+GUID 9912859543c9465e8dd322f5a860338c
+Type Supply
+Rarity Rare
+ID 59539
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59539
+Blueprint_0_Product 59627
+Blueprint_0_Products 1
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27

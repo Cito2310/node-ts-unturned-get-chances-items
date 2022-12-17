@@ -1,0 +1,17 @@
+GUID 55e2774e111a41daacdafedaf0b8ef2f
+Type Supply
+Rarity Common
+ID 59591
+
+Size_X 1
+Size_Y 2
+Size_Z 0.44
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59591
+Blueprint_0_Product 59000
+Blueprint_0_Products 2
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27

@@ -1,0 +1,37 @@
+GUID 778e1108797a402193687232913fe29d
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Build Barricade
+ID 59945
+
+Size_X 3
+Size_Y 2
+Size_Z 0.65
+
+Health 200
+Range 4
+Radius 0.45
+Offset 0.525
+
+Explosion 75
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supply_0_ID 59697
+Blueprint_0_Supply_0_Amount 10
+Blueprint_0_Build 27
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 59697
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 2
+Action_0_Key Salvage
+
+Salvage_Duration_Multiplier 0.2
+
+PlacementAudioClip Sounds/PlantPlacement.mp3
+
+Bypass_Pickup_Ownership False

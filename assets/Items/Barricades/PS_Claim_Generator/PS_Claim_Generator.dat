@@ -1,0 +1,38 @@
+GUID ded1e272ce504f679a3c0c154eeb0120
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Claim
+ID 59502
+
+Size_X 2
+Size_Y 2
+Size_Z 0.59
+
+Vulnerable
+
+Health 600
+Range 4
+Radius 1.17
+Offset 1.3491
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 59009
+Blueprint_0_Supply_0_Amount 5
+Blueprint_0_Supply_1_ID 59008
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Supply_2_ID 59016
+Blueprint_0_Supply_2_Amount 3
+Blueprint_0_Supply_3_ID 59279
+Blueprint_0_Supply_3_Amount 1
+Blueprint_0_Tool 59003
+Blueprint_0_Build 27
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Use_Auto_Icon_Measurements False
+
+Allow_Placement_On_Vehicle False

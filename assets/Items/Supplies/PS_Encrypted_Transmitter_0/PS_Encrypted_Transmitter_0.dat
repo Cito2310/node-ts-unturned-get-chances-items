@@ -1,0 +1,20 @@
+GUID 26bb242646504f2ba7159560bf51af57
+Type Supply
+Rarity Rare
+ID 59618
+
+Size_X 2
+Size_Y 1
+Size_Z 0.175
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59618
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 59016
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 59028
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27

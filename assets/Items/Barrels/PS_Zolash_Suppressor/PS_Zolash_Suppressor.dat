@@ -1,0 +1,33 @@
+GUID 84312379b339492faefa4d7ffc9d4464
+Type Barrel
+Rarity Epic
+ID 59324
+
+Size_X 2
+Size_Y 1
+Size_Z 0.125
+
+Calibers 1
+Caliber_0 58906
+
+Silenced 
+Volume 0.3
+
+Recoil_X 0.95
+Recoil_Y 0.95
+
+Gunshot_Rolloff_Distance_Multiplier 0.75
+
+Quality_Min 100
+Quality_Max 100
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59324
+Blueprint_0_Product 59000
+Blueprint_0_Products 2
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27
+
+Ballistic_Drop 1.2

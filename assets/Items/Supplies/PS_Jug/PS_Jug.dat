@@ -1,0 +1,36 @@
+GUID cd70c515623c49ef99d32bd473a84fc1
+Type Tank
+Rarity Common
+Useable Barricade
+Build Tank
+ID 59578
+
+Size_X 2
+Size_Y 2
+Size_Z 0.37
+
+Health 30
+Range 4
+Radius 0.2
+Offset 0.23
+
+Explosion 36
+Vulnerable
+
+Source Water
+Resource 3
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59578
+Blueprint_0_Product 59001
+Blueprint_0_Products 3
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27
+
+PlacementAudioClip Sounds/MiscPlacement.mp3
+
+Salvage_Duration_Multiplier 0.1
+
+Bypass_Pickup_Ownership True

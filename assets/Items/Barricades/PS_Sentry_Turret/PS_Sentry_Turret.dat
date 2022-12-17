@@ -1,0 +1,61 @@
+GUID 08d3c5ef45474218b89f7787c42a8e3b
+Type Sentry
+Rarity Legendary
+Useable Barricade
+Build Sentry
+ID 59513
+
+Size_X 2
+Size_Y 3
+Size_Z 0.55
+
+Health 400
+Range 4
+Radius 0.5
+Offset 1
+
+Storage_X 6
+Storage_Y 2
+Display
+Locked
+Mode Hostile
+
+Explosion 36
+
+Should_Close_When_Outside_Range true
+
+Blueprints 2
+
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59513
+Blueprint_0_Product 59513
+Blueprint_0_Products 1
+Blueprint_0_Tool 58999
+Blueprint_0_Tool_Critical
+Blueprint_0_Build 27
+
+Blueprint_1_Type Utilities
+Blueprint_1_Supplies 7
+Blueprint_1_Supply_0_ID 59514
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Supply_1_ID 59512
+Blueprint_1_Supply_1_Amount 1
+Blueprint_1_Supply_2_ID 59796
+Blueprint_1_Supply_2_Amount 1
+Blueprint_1_Supply_3_ID 59491
+Blueprint_1_Supply_3_Amount 1
+Blueprint_1_Supply_4_ID 59008
+Blueprint_1_Supply_4_Amount 2
+Blueprint_1_Supply_5_ID 59010
+Blueprint_1_Supply_5_Amount 6
+Blueprint_1_Supply_6_ID 59575
+Blueprint_1_Supply_6_Amount 10
+Blueprint_1_Tool 59376
+Blueprint_1_Build 27
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Allow_Placement_On_Vehicle False
+
+Salvage_Duration_Multiplier 0.6

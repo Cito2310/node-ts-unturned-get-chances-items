@@ -1,0 +1,32 @@
+GUID 7ca5b7c169714692a93e7c64719c8d7a
+Type Food
+Rarity Uncommon
+Useable Consumeable
+ID 59242
+
+Size_X 1
+Size_Y 1
+Size_Z 0.27
+
+Food 40
+Water 80
+Health 5
+
+Quality_Min 75
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 59030
+Blueprint_0_Supply_0_Amount 5
+Blueprint_0_Supply_1_ID 59234
+Blueprint_0_Supply_1_Amount 3
+Blueprint_0_Products 5
+Blueprint_0_Level 1
+Blueprint_0_Skill Cook
+Blueprint_0_Build 27
+
+Quest_Rewards 1
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 59030
+Quest_Reward_0_Amount 1

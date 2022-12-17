@@ -1,0 +1,21 @@
+GUID 694ffa76c96245688b75571b3e5d2bb1
+Type Supply
+Rarity Rare
+ID 59713
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Blueprints 2
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59528
+Blueprint_0_Supply_0_Amount 10
+Blueprint_0_Build 27
+Blueprint_1_Type Gear
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 59713
+Blueprint_1_Product 59528
+Blueprint_1_Products 10
+Blueprint_1_Build 27

@@ -1,0 +1,17 @@
+GUID 6112812d05f149e1a440d179e76a8174
+Type Supply
+Rarity Uncommon
+ID 59135
+
+Size_X 2
+Size_Y 2
+Size_Z 0.28
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59135
+Blueprint_0_Product 59062
+Blueprint_0_Products 3
+Blueprint_0_Tool 59005
+Blueprint_0_Build 27

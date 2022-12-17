@@ -1,0 +1,20 @@
+GUID dac811d4f09c46598e64a237a9e6c367
+Type Supply
+Rarity Uncommon
+ID 59619
+
+Size_X 1
+Size_Y 2
+Size_Z 0.43
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59619
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 59016
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 59028
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27

@@ -1,0 +1,17 @@
+GUID 6056a347b7204b919457e395dea42958
+Type Structure
+Rarity Uncommon
+Useable Structure
+Construct Floor
+ID 59500
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Health 400
+Range 6
+
+Explosion 19
+
+Salvage_Duration_Multiplier 0.2

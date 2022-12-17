@@ -1,0 +1,20 @@
+GUID ce02a630383a4c258c03b414a049ff61
+Type Supply
+Rarity Uncommon
+ID 59042
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59042
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 59016
+Blueprint_0_Output_0_Amount 2
+Blueprint_0_Output_1_ID 59000
+Blueprint_0_Output_1_Amount 2
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27

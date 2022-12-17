@@ -1,0 +1,23 @@
+GUID f210311149304447ad0d7dde6576afda
+Type Detonator
+Rarity Rare
+Useable Detonator
+ID 59196
+
+Size_X 1
+Size_Y 2
+Size_Z 0.38
+
+Use_Auto_Icon_Measurements False
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 59806
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 59007
+Blueprint_0_Supply_1_Amount 4
+Blueprint_0_Supply_2_ID 59714
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Tool 59376
+Blueprint_0_Build 32

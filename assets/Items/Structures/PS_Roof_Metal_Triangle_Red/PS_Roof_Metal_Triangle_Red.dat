@@ -1,0 +1,29 @@
+GUID fa5292264ce741709411583e2c37bbd3
+Type Structure
+Rarity Epic
+Useable Structure
+Construct Roof_Poly
+ID 59485
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Health 3200
+Range 6
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Structure
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 59469
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 59505
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Tool 59003
+Blueprint_0_Build 27
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Salvage_Duration_Multiplier 0.8

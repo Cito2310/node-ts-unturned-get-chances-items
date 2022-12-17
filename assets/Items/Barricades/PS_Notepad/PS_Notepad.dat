@@ -1,0 +1,37 @@
+GUID d3c4a175163e40178f46068bcbf85a5a
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Build Sign_Wall
+ID 59599
+
+Size_X 1
+Size_Y 1
+Size_Z 0.42
+
+Health 5
+Range 4
+
+Radius 0.05
+Offset 0.125
+
+Explosion 58
+Vulnerable
+Bypass_Claim
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59599
+Blueprint_0_Product 59002
+Blueprint_0_Products 2
+Blueprint_0_Tool 59005
+Blueprint_0_Build 32
+
+Should_Close_When_Outside_Range true
+
+PlacementAudioClip Sounds/PaperPlacement.mp3
+
+Salvage_Duration_Multiplier 0.15
+
+Bypass_Pickup_Ownership True

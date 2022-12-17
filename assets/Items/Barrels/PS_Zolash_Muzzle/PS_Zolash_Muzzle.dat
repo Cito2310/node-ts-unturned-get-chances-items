@@ -1,0 +1,23 @@
+GUID 6b87151846674dae82070d561142c942
+Type Barrel
+Rarity Epic
+ID 59661
+
+Size_X 1
+Size_Y 1
+Size_Z 0.15
+
+Calibers 1
+Caliber_0 58906
+
+Recoil_X 0.9
+Recoil_Y 0.9
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59661
+Blueprint_0_Product 59000
+Blueprint_0_Products 1
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27

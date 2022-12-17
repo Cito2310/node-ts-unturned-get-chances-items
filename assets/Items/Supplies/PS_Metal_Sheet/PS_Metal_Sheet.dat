@@ -1,0 +1,33 @@
+GUID 73f63b6e19fd41ce91b114e307cc84fc
+Type Supply
+Rarity Uncommon
+ID 59011
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Blueprints 3
+
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59009
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Tool 59003
+Blueprint_0_Build 27
+
+Blueprint_1_Type Gear
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 59563
+Blueprint_1_Product 59011
+Blueprint_1_Products 5
+Blueprint_1_Build 27
+
+Blueprint_2_Type Gear
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 59011
+Blueprint_2_Outputs 1
+Blueprint_2_Output_0_ID 59009
+Blueprint_2_Output_0_Amount 3
+Blueprint_2_Tool 59003
+Blueprint_2_Build 27

@@ -1,0 +1,33 @@
+GUID d8ec225b911147628d6a7989f27db2d0
+Type Barrel
+Rarity Rare
+ID 59328
+
+Size_X 2
+Size_Y 1
+Size_Z 0.125
+
+Calibers 1
+Caliber_0 58907
+
+Silenced 
+Volume 0.5
+
+Recoil_X 0.95
+Recoil_Y 0.95
+
+Gunshot_Rolloff_Distance_Multiplier 0.3
+
+Quality_Min 100
+Quality_Max 100
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59328
+Blueprint_0_Product 59000
+Blueprint_0_Products 2
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27
+
+Ballistic_Drop 1.2

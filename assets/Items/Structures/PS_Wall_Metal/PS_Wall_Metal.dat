@@ -1,0 +1,26 @@
+GUID 4fc2465469ab478cad7f898aa377deda
+Type Structure
+Rarity Rare
+Useable Structure
+Construct Wall
+ID 59471
+
+Size_X 2
+Size_Y 1
+Size_Z 0.3
+
+Health 1600
+Range 6
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Structure
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59011
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Tool 59003
+Blueprint_0_Build 27
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Salvage_Duration_Multiplier 0.6

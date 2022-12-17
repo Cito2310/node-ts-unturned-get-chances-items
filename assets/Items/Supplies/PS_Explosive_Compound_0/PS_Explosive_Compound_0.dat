@@ -1,0 +1,20 @@
+GUID 1751f2d32a8e406ea0caad8a09a8b35d
+Type Supply
+Rarity Legendary
+ID 59378
+
+Size_X 1
+Size_Y 2
+Size_Z 0.39
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 59680
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 59130
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 59131
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Products 1
+Blueprint_0_Build 27

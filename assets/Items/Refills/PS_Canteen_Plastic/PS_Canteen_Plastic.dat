@@ -1,0 +1,42 @@
+GUID a48b9a3e2f184fbbbabf093e55488b21
+Type Refill
+Rarity Rare
+Useable Refill
+ID 59517
+
+Size_X 1
+Size_Y 1
+Size_Z 0.37
+
+Quality_Min 100
+Quality_Max 100
+
+Clean_Food 0
+Clean_Oxygen 0
+Clean_Virus 0
+Clean_Water 100
+Clean_Stamina 100
+
+Dirty_Food 0
+Dirty_Oxygen 0
+Dirty_Virus 0
+Dirty_Water 100
+Dirty_Stamina 100
+
+Use_Auto_Icon_Measurements False
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 59028
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Supply_1_ID 59002
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27
+
+Blueprint_0_Conditions 1
+Blueprint_0_Condition_0_Type Flag_Bool
+Blueprint_0_Condition_0_ID 59041
+Blueprint_0_Condition_0_Value True
+Blueprint_0_Condition_0_Logic Equal

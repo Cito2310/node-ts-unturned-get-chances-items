@@ -1,0 +1,35 @@
+GUID 8e9375f51b924391bef7f1b963a92ff3
+Type Throwable
+Useable Throwable
+Rarity Uncommon
+ID 59862
+
+Size_X 1
+Size_Y 1
+Size_Z 0.55
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59440
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Products 1
+Blueprint_0_Build 27
+
+Player_Damage 8
+Zombie_Damage 155
+Animal_Damage 50
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 0
+Resource_Damage 0
+Object_Damage 15
+
+Range 3.5
+Explosion 59060
+
+Explosive
+Explode_On_Impact
+Fuse_Length 30
+
+Explosion_Launch_Speed 0

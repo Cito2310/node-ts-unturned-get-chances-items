@@ -1,0 +1,23 @@
+GUID 071a9c88014a4216820d7ad0ff9fc5ef
+Type Barrel
+Rarity Uncommon
+ID 59301
+
+Size_X 1
+Size_Y 1
+Size_Z 0.13
+
+Calibers 1
+Caliber_0 58900
+
+Recoil_X 0.8
+Recoil_Y 0.8
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59301
+Blueprint_0_Product 59000
+Blueprint_0_Products 1
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27

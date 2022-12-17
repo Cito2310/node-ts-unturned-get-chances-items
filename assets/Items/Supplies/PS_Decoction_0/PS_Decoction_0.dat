@@ -1,0 +1,24 @@
+GUID e9a11518f7e948e381f6f9a4ac3565ad
+Type Water
+Rarity Epic
+Useable Consumeable
+ID 59691
+
+Size_X 1
+Size_Y 2
+Size_Z 0.45
+
+Water 10
+Virus 40
+Health 66
+
+Quality_Min 100
+Quality_Max 100
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59369
+Blueprint_0_Supply_0_Amount 6
+Blueprint_0_Products 1
+Blueprint_0_Build 27

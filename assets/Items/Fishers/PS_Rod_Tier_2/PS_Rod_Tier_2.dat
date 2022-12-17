@@ -1,0 +1,34 @@
+GUID 4ad82ba53fcf4402b26597d6bb10a608
+Type Fisher
+Rarity Uncommon
+Useable Fisher
+ID 59728
+
+Size_X 3
+Size_Y 1
+Size_Z 0.25
+
+Backward
+
+Reward_ID 59225
+
+Blueprints 2
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59727
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 27
+
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 3
+Blueprint_1_Supply_0_ID 59573
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Supply_1_ID 59010
+Blueprint_1_Supply_1_Amount 1
+Blueprint_1_Supply_2_ID 59202
+Blueprint_1_Supply_2_Amount 3
+Blueprint_1_Supply_0_Critical
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 59728
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Build 27

@@ -1,0 +1,45 @@
+GUID 42d4519035b24edb88a1fd7a0b4f5109
+Type Generator
+Rarity Epic
+Useable Barricade
+Build Generator
+ID 59520
+
+Size_X 2
+Size_Y 2
+Size_Z 0.582
+
+Health 300
+Range 4
+Radius 0.45
+Offset 0.577
+
+Capacity 3000
+Wirerange 18
+Burn 100
+
+Explosion 36
+
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 59519
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 59011
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 59806
+Blueprint_0_Supply_2_Amount 2
+Blueprint_0_Tool 59376
+Blueprint_0_Build 27
+
+Blueprint_0_Conditions 1
+Blueprint_0_Condition_0_Type Flag_Bool
+Blueprint_0_Condition_0_ID 59039
+Blueprint_0_Condition_0_Value True
+Blueprint_0_Condition_0_Logic Equal
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Salvage_Duration_Multiplier 0.3

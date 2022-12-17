@@ -1,0 +1,23 @@
+GUID 2ec1d0298c034665be1c8712e9689612
+Type Storage
+Rarity Epic
+Useable Barricade
+Build Storage
+ID 59708
+
+Size_X 1
+Size_Y 1
+Size_Z 1
+
+Health 1500
+
+Storage_X 9
+Storage_Y 9
+
+Explosion 19
+Vulnerable
+Unrepairable
+Unpickupable
+Unsaveable
+
+Should_Close_When_Outside_Range true

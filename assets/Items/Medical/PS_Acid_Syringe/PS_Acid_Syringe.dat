@@ -1,0 +1,25 @@
+GUID 2dcb08acdbef41d1ae8b6cbad66c8536
+Type Medical
+Rarity Rare
+Useable Consumeable
+ID 59863
+
+Size_X 1
+Size_Y 1
+Size_Z 0.285
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 59624
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 59670
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Products 1
+Blueprint_0_Supply_0_Critical
+Blueprint_0_Build 27
+
+Aid
+
+Water 5
+Vision 120

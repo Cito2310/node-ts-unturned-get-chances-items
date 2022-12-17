@@ -1,0 +1,36 @@
+GUID 07f42cbee67f42059161061f3865bd96
+Type Magazine
+Rarity Legendary
+ID 59835
+
+Size_X 3
+Size_Y 2
+Size_Z 0.25
+
+Amount 20
+Count_Min 1
+Count_Max 3
+
+Calibers 1
+Caliber_0 58999
+
+Tracer 59002
+
+Blueprints 3
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 58999
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 58999
+Blueprint_0_Tool_Critical
+Blueprint_0_Build 27
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 59835
+Blueprint_1_Build 30
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 59834
+Blueprint_2_Build 30
+
+Delete_Empty

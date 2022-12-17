@@ -1,0 +1,22 @@
+GUID 5fea751dbfd544d988205d31cd58c500
+Type Supply
+Rarity Rare
+ID 59198
+
+Size_X 2
+Size_Y 1
+Size_Z 0.27
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 59133
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Supply_1_ID 59130
+Blueprint_0_Supply_1_Amount 3
+Blueprint_0_Supply_2_ID 59000
+Blueprint_0_Supply_2_Amount 8
+Blueprint_0_Supply_3_ID 59564
+Blueprint_0_Supply_3_Amount 1
+Blueprint_0_Products 5
+Blueprint_0_Build 27

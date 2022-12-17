@@ -1,0 +1,29 @@
+GUID 5d501c766056407eb89e7724cd8647e6
+Type Barricade
+Rarity Epic
+Useable Barricade
+Build Barricade
+ID 59846
+
+Size_X 3
+Size_Y 3
+Size_Z 0.725
+
+Health 100
+Range 4
+Radius 1.1
+Offset 1.3
+
+Explosion 19
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supply_0_ID 59805
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Supply_0_Critical
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27
+
+Salvage_Duration_Multiplier 0.5
+
+PlacementAudioClip Sounds/WoodenPlacement.mp3

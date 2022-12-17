@@ -1,0 +1,18 @@
+GUID e51fa482411d41adb9e10c7eef83326e
+Type Backpack
+Rarity Mythical
+Useable Clothing
+ID 59669
+
+Size_X 2
+Size_Y 3
+Size_Z 0.6
+
+Width 10
+Height 100
+
+Master_Bundle_Override prosur.masterbundle
+Bundle_Override_Path /Items/Backpacks/PS_Rucksack
+
+Quality_Min 100
+Quality_Max 100

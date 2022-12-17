@@ -1,0 +1,26 @@
+GUID 8c775a953e1e43f7bf26ea48936d4858
+Type Trap
+Rarity Legendary
+Useable Barricade
+Build Wire
+ID 59254
+
+Size_X 2
+Size_Y 1
+Size_Z 0.2
+
+Health 65000
+Range 4
+Radius 0.15
+Offset 0.2
+
+Player_Damage 30
+Zombie_Damage 80
+Animal_Damage 80
+
+Explosion 36
+Unrepairable
+Unpickupable
+Proof_Explosion
+
+Can_Be_Damaged False

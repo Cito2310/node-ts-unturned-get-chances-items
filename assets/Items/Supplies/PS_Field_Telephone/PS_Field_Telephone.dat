@@ -1,0 +1,41 @@
+GUID 5bf1e4670fe34f9f9b991d88a23dd1d5
+Type Barricade
+Rarity Epic
+Useable Barricade
+Build Barricade
+ID 59620
+
+Size_X 2
+Size_Y 3
+Size_Z 0.53
+
+Health 400
+Range 4
+Radius 0.14
+Offset 0.18
+
+Explosion 36
+
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59620
+Blueprint_0_Outputs 4
+Blueprint_0_Output_0_ID 59514
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 59016
+Blueprint_0_Output_1_Amount 2
+Blueprint_0_Output_2_ID 59028
+Blueprint_0_Output_2_Amount 2
+Blueprint_0_Output_3_ID 59000
+Blueprint_0_Output_3_Amount 2
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Salvage_Duration_Multiplier 0.1
+
+Bypass_Pickup_Ownership True

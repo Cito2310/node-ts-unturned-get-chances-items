@@ -1,0 +1,18 @@
+GUID deb40346f3eb4d888e98b1ab067e03c4
+Type Food
+Useable Consumeable
+ID 59048
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Food 40
+Water 5
+
+Quality_Min 50
+
+Quest_Rewards 1
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 59553
+Quest_Reward_0_Amount 1

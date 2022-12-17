@@ -1,0 +1,37 @@
+GUID ccd98ddb23f7402cb4029a7e29cb8f6a
+Type Barricade
+Rarity Legendary
+Useable Barricade
+Build Barricade
+ID 59379
+
+Size_X 7
+Size_Y 2
+Size_Z 0.3
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59379
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 59380
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 59381
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Tool 59376
+Blueprint_0_Build 27
+
+Health 500
+Range 4
+Radius 0.23
+Offset 0.916
+
+Explosion 36
+
+Vulnerable
+
+Salvage_Duration_Multiplier 0.2
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Bypass_Pickup_Ownership True

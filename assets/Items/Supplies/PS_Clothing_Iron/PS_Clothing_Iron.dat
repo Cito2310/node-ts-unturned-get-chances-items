@@ -1,0 +1,20 @@
+GUID 978cb6f4608d4dc1911b1553e133624d
+Type Supply
+Rarity Common
+ID 59554
+
+Size_X 2
+Size_Y 1
+Size_Z 0.27
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59554
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 59000
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 59028
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27

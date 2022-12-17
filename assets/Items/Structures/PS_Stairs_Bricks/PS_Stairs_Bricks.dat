@@ -1,0 +1,25 @@
+GUID 3c0714a676c04abdb5b64bf0f92e004b
+Type Structure
+Rarity Uncommon
+Useable Structure
+Construct Roof
+ID 59454
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Health 800
+Range 6
+
+Explosion 19
+
+Blueprints 1
+Blueprint_0_Type Structure
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59440
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 27
+PlacementAudioClip Sounds/WoodenPlacement.mp3
+
+Salvage_Duration_Multiplier 0.4

@@ -1,0 +1,16 @@
+GUID ca385e75e950424d8890fe9431dd7304
+Type Supply
+Rarity Rare
+ID 59701
+
+Size_X 2
+Size_Y 2
+Size_Z 0.27
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59701
+Blueprint_0_Product 59289
+Blueprint_0_Products 6
+Blueprint_0_Build 27

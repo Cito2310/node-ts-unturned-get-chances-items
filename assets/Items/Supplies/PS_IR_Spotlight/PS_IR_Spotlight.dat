@@ -1,0 +1,39 @@
+GUID cb78b98c61794de495b47e7190af4ebb
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Barricade
+ID 59613
+
+Size_X 3
+Size_Y 3
+Size_Z 0.43
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59613
+Blueprint_0_Outputs 3
+Blueprint_0_Output_0_ID 59001
+Blueprint_0_Output_0_Amount 2
+Blueprint_0_Output_1_ID 59000
+Blueprint_0_Output_1_Amount 4
+Blueprint_0_Output_2_ID 59007
+Blueprint_0_Output_2_Amount 3
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27
+
+Health 80
+Range 4
+Radius 0.265
+Offset 0.272
+
+Explosion 36
+
+Vulnerable
+
+Salvage_Duration_Multiplier 0.15
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Bypass_Pickup_Ownership True

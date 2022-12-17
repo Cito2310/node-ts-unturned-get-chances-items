@@ -1,0 +1,21 @@
+GUID e5d1fec9b6794de2a5dc4f1323d7c548
+Type Sight
+Rarity Uncommon
+ID 59333
+
+Size_X 1
+Size_Y 1
+Size_Z 0.13
+
+Calibers 1
+Caliber_0 58904
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59333
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 59000
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27

@@ -1,0 +1,38 @@
+GUID 0fd17a65d71a4db49b865e89aeb80168
+Type Barricade
+Rarity Common
+Useable Barricade
+Build Campfire
+ID 59231
+
+Size_X 2
+Size_Y 1
+Size_Z 0.4
+
+Health 15
+Range 4
+Radius 1.5
+Offset 0.82
+
+Explosion 19
+Vulnerable
+
+Blueprints 2
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59201
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Tool 59581
+Blueprint_0_Build 27
+Blueprint_1_Type Utilities
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 59201
+Blueprint_1_Supply_0_Amount 4
+Blueprint_1_Tool 59018
+Blueprint_1_Build 27
+
+PlacementAudioClip Sounds/WoodenPlacement.mp3
+
+Salvage_Duration_Multiplier 0.1
+
+Bypass_Pickup_Ownership True

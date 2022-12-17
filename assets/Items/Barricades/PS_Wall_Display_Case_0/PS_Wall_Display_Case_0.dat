@@ -1,0 +1,37 @@
+GUID c017f30002fc453bb341ebab4317e8b2
+Type Storage
+Rarity Rare
+Useable Barricade
+Build Storage_Wall
+ID 59921
+
+Size_X 2
+Size_Y 1
+Size_Z 0.65
+
+Health 55
+Range 4
+Offset 0.11
+
+Storage_X 5
+Storage_Y 3
+Display
+Locked
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 59565
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Supply_1_ID 59009
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Tool 59003
+Blueprint_0_Build 27
+
+Should_Close_When_Outside_Range true
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Salvage_Duration_Multiplier 0.25

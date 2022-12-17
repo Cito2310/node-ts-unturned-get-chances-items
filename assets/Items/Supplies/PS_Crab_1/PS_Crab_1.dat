@@ -1,0 +1,17 @@
+GUID d7e0b9154c24485896ddf0076659a1a8
+Type Supply
+Rarity Epic
+ID 59136
+
+Size_X 2
+Size_Y 2
+Size_Z 0.28
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59136
+Blueprint_0_Product 59062
+Blueprint_0_Products 3
+Blueprint_0_Tool 59005
+Blueprint_0_Build 27

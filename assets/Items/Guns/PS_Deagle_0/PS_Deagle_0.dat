@@ -1,0 +1,114 @@
+GUID 4aa48c96da0e4df48051c438d18fc541
+Type Gun
+Rarity Epic
+Useable Gun
+Slot Secondary
+ID 59409
+
+Size_X 2
+Size_Y 2
+Size_Z 0.321
+
+Magazine 59289
+Grip 59750
+
+Hook_Sight
+
+Ammo_Min 4
+Ammo_Max 8
+
+Safety
+Semi
+
+Attachment_Calibers 1
+Attachment_Caliber_0 58901
+
+Magazine_Calibers 1
+Magazine_Caliber_0 59290
+
+Firerate 5
+Action Trigger
+
+Player_Damage 50
+Player_Leg_Multiplier 0.4
+Player_Arm_Multiplier 0.4
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 170
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 111
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 15
+Structure_Damage 15
+Vehicle_Damage 40
+Resource_Damage 25
+Object_Damage 40
+
+Durability 0.2
+
+Spread_Aim 0.02
+Spread_Hip 0.11
+
+Recoil_Min_X -3.6
+Recoil_Min_Y 8
+Recoil_Max_X -4
+Recoil_Max_Y 16
+
+Recover_X 0.2
+Recover_Y 0.4
+
+Shake_Min_X -0.0007
+Shake_Min_Y -0.015
+Shake_Min_Z -0.02
+Shake_Max_X 0.0007
+Shake_Max_Y -0.015
+Shake_Max_Z -0.02
+
+Range 304
+Ballistic_Steps 38
+Ballistic_Travel 8
+Ballistic_Drop 0.0025
+
+Damage_Falloff_Range 0.05
+Damage_Falloff_Multiplier 0.2
+
+Muzzle 59023
+
+Shell 59003
+
+Blueprints 2
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59659
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 27
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 59409
+Blueprint_1_Product 59262
+Blueprint_1_Products 1
+Blueprint_1_Tool 59004
+Blueprint_1_Build 27
+
+BladeID 2
+
+Use_Auto_Icon_Measurements False
+
+Recoil_Crouch 0.8
+Recoil_Prone 1
+
+Spread_Prone 1
+Spread_Crouch 1
+
+Player_Damage_Bleeding Always
+
+Quality_Min 50
+Quality_Max 50

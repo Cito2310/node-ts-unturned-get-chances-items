@@ -1,0 +1,37 @@
+GUID b121eb1097264dde8aaaa52e5c72f575
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Barricade
+ID 59376
+
+Size_X 4
+Size_Y 4
+Size_Z 0.75
+Health 300
+
+Range 4
+Radius 0.34
+Offset 0.39
+
+Explosion 36
+
+Vulnerable
+
+Use_Auto_Icon_Measurements False
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Salvage_Duration_Multiplier 0.1
+
+Bypass_Pickup_Ownership True
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59376
+Blueprint_0_Product 59376
+Blueprint_0_Products 1
+Blueprint_0_Tool 58999
+Blueprint_0_Tool_Critical
+Blueprint_0_Build 27

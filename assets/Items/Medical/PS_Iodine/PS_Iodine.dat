@@ -1,0 +1,25 @@
+GUID 77090e65fbd4406c8e7c46d8b858af5c
+Type Medical
+Rarity Rare
+Useable Consumeable
+ID 59174
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Aid
+Disinfectant 25
+Health 5
+
+Amount 5
+Count_Min 5
+Count_Max 5
+
+Quest_Rewards 2
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 59716
+Quest_Reward_0_Amount 1
+Quest_Reward_1_Type Hint
+Quest_Reward_1_Text 4/5 Uses Left
+Quest_Reward_1_Duration 1

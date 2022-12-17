@@ -1,0 +1,18 @@
+GUID d62b8e1c065d440694de710022f6118c
+Type Tool
+Rarity Uncommon
+Useable Carjack
+ID 59548
+
+Size_X 2
+Size_Y 1
+Size_Z 0.3
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supply_0_ID 59548
+Blueprint_0_Product 59010
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27
+
+Use_Auto_Icon_Measurements False

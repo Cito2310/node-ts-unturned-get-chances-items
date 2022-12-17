@@ -1,0 +1,29 @@
+GUID 876c81a4b2e14a49ad7c7b7db3116984
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Build Ladder
+ID 59228
+
+Size_X 1
+Size_Y 2
+Size_Z 0.65
+
+Health 80
+Range 4
+Offset 0.125
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 59009
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 59575
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Tool 59003
+Blueprint_0_Build 27
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Salvage_Duration_Multiplier 0.1

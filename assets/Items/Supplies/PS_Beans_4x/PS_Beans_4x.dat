@@ -1,0 +1,33 @@
+GUID 90bef2ce834f4c179ceacb6979ed08a4
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Build Barricade
+ID 59741
+
+Size_X 2
+Size_Y 2
+Size_Z 0.6
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59741
+Blueprint_0_Product 59046
+Blueprint_0_Products 4
+Blueprint_0_Build 27
+
+Health 30
+Range 4
+Radius 0.19
+Offset 0.2
+
+Explosion 19
+
+Vulnerable
+
+Salvage_Duration_Multiplier 0.1
+
+PlacementAudioClip Sounds/WoodenPlacement.mp3
+
+Bypass_Pickup_Ownership True

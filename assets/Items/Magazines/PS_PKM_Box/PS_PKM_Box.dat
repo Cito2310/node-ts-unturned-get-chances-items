@@ -1,0 +1,34 @@
+GUID 2c257c1e63424c9d8d3f10dc65c81698
+Type Magazine
+Rarity Epic
+ID 59424
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Amount 92
+Count_Min 2
+Count_Max 11
+
+Calibers 1
+Caliber_0 59422
+
+Tracer 59040
+
+Blueprints 3
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 58999
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 58999
+Blueprint_0_Tool_Critical
+Blueprint_0_Build 27
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 59263
+Blueprint_1_Build 30
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 59424
+Blueprint_2_Build 30

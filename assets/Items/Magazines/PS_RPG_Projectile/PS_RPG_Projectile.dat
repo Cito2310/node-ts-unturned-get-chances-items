@@ -1,0 +1,29 @@
+GUID 0c9f2495ed42400ea6fb50f8c15aadee
+Type Magazine
+Rarity Legendary
+ID 59357
+
+Size_X 3
+Size_Y 1
+Size_Z 0.2
+
+Amount 1
+
+Calibers 1
+Caliber_0 59357
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 59378
+Blueprint_0_Supply_0_Amount 7
+Blueprint_0_Supply_1_ID 59680
+Blueprint_0_Supply_1_Amount 3
+Blueprint_0_Supply_2_ID 59036
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 59009
+Blueprint_0_Supply_3_Amount 2
+Blueprint_0_Tool 59375
+Blueprint_0_Build 27
+
+Projectile_Launch_Force_Multiplier 1.5

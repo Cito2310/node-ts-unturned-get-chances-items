@@ -1,0 +1,14 @@
+GUID d190ef591d37423aa02458feb0149d4e
+Type Barrel
+ID 59933
+
+Size_X 5
+Size_Y 5
+Size_Z 1
+
+Silenced 
+Volume 0.9
+
+Gunshot_Rolloff_Distance_Multiplier 0.4
+
+Ballistic_Drop 1.3

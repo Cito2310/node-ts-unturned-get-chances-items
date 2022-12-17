@@ -1,0 +1,20 @@
+GUID ad40c5ae1a62482ea2f44848bb824273
+Type Arrest_Start
+Rarity Uncommon
+Useable Arrest_Start
+ID 59146
+
+Size_X 1
+Size_Y 1
+Size_Z 0.26
+
+Strength 128
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supply_0_ID 59146
+Blueprint_0_Product 59000
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27
+
+Use_Auto_Icon_Measurements False

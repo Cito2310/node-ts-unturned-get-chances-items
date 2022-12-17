@@ -1,0 +1,22 @@
+GUID 282f17859d19492593237885351f7942
+Type Supply
+Rarity Rare
+ID 59015
+
+Size_X 2
+Size_Y 1
+Size_Z 0.2
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59015
+Blueprint_0_Outputs 3
+Blueprint_0_Output_0_ID 59017
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 59016
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Output_2_ID 59028
+Blueprint_0_Output_2_Amount 1
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27

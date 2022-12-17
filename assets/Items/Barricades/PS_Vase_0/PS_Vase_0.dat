@@ -1,0 +1,36 @@
+GUID 56d2682a3e6749829379ce9ec6893988
+Type Storage
+Rarity Uncommon
+Useable Barricade
+Build Storage
+ID 59602
+
+Size_X 2
+Size_Y 3
+Size_Z 0.42
+
+Health 300
+Range 4
+Radius 0.3
+Offset 0.375
+
+Explosion 19
+Vulnerable
+
+Storage_X 3
+Storage_Y 4
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 59565
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Supply_1_ID 59197
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Build 27
+
+Should_Close_When_Outside_Range true
+
+PlacementAudioClip Sounds/WoodenPlacement.mp3
+
+Salvage_Duration_Multiplier 0.2

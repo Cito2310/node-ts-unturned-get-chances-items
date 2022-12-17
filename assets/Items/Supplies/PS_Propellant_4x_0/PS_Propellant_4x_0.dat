@@ -1,0 +1,21 @@
+GUID 22c598f28127491db929f848610fce47
+Type Supply
+Rarity Epic
+ID 59680
+
+Size_X 1
+Size_Y 2
+Size_Z 0.39
+
+Blueprints 2
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59377
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Build 27
+Blueprint_1_Type Gear
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 59680
+Blueprint_1_Product 59377
+Blueprint_1_Products 4
+Blueprint_1_Build 27

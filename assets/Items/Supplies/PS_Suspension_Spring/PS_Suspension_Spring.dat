@@ -1,0 +1,20 @@
+GUID 918200435da04827b73432e4cbab359e
+Type Supply
+Rarity Common
+ID 59283
+
+Size_X 1
+Size_Y 3
+Size_Z 0.66
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59283
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 59010
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 59000
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27

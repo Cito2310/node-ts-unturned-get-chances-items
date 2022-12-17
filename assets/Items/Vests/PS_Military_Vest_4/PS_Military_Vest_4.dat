@@ -1,0 +1,36 @@
+GUID adfeca549cab4e038cfe82b1add9045a
+Type Vest
+Rarity Rare
+Useable Clothing
+ID 59431
+
+Size_X 3
+Size_Y 3
+Size_Z 0.5
+
+Width 2
+Height 2
+
+Armor 0.7
+Armor_Explosion 0.9
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 59431
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 59658
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 59417
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Tool 59004
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 59816
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Build 32
+
+Quality_Min 55
+Quality_Max 65
+
+Movement_Speed_Multiplier 0.87

@@ -1,0 +1,40 @@
+GUID 7548d94cbf304c7f976ec7bd0868ef10
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Build Barricade
+ID 59360
+
+Size_X 2
+Size_Y 1
+Size_Z 0.35
+
+Health 250
+Range 4
+Radius 0.3
+Offset 0.375
+
+Explosion 19
+Vulnerable
+
+Blueprints 2
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 59202
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Supply_1_ID 59197
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27
+
+Blueprint_1_Type Utilities
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 59202
+Blueprint_1_Supply_0_Amount 4
+Blueprint_1_Supply_1_ID 59133
+Blueprint_1_Supply_1_Amount 1
+Blueprint_1_Tool 59004
+Blueprint_1_Build 27
+PlacementAudioClip Sounds/WoodenPlacement.mp3
+
+Salvage_Duration_Multiplier 0.2

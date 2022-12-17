@@ -1,0 +1,23 @@
+GUID cdc2646f5a2848e8a28292a66f8947be
+Type Supply
+Rarity Epic
+ID 59734
+
+Size_X 5
+Size_Y 2
+Size_Z 0.421
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 59734
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 59162
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Tool 59580
+Blueprint_0_Product 59317
+Blueprint_0_Products 1
+Blueprint_0_Supply_0_Critical
+Blueprint_0_Build 27
+
+Use_Auto_Icon_Measurements False

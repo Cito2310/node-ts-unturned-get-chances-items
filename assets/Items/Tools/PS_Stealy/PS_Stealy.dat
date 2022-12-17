@@ -1,0 +1,18 @@
+GUID 40aa3df105be4ab68a58d2ba74931f13
+Type Tool
+Rarity Epic
+Useable Carlockpick
+ID 59549
+
+Size_X 1
+Size_Y 1
+Size_Z 0.425
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supply_0_ID 59549
+Blueprint_0_Product 59000
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27
+
+Use_Auto_Icon_Measurements False

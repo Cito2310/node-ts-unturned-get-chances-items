@@ -1,0 +1,17 @@
+GUID 954b8a4bd54546b6a99e2df8e4b65a01
+Type Supply
+Rarity Uncommon
+ID 59280
+
+Size_X 2
+Size_Y 2
+Size_Z 0.275
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59280
+Blueprint_0_Product 59010
+Blueprint_0_Products 2
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27

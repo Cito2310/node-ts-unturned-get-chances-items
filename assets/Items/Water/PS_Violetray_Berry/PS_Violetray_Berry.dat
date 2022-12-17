@@ -1,0 +1,16 @@
+GUID bb792a4d90134eb08e6181c3a11f0d4b
+Type Water
+Rarity Common
+Useable Consumeable
+ID 59055
+
+Size_X 1
+Size_Y 1
+Size_Z 0.35
+
+Food 10
+Water 15
+Virus 20
+Vision 20
+
+Quality_Min 50

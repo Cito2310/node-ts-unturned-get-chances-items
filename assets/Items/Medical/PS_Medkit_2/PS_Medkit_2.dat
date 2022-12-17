@@ -1,0 +1,21 @@
+GUID f720841c91ed42c69af1490a86994279
+Type Medical
+Rarity Rare
+Useable Consumeable
+ID 59638
+
+Size_X 1
+Size_Y 1
+Size_Z 0.335
+
+Health 25
+Disinfectant 10
+
+Amount 1
+Count_Min 1
+Count_Max 1
+
+Quest_Rewards 1
+Quest_Reward_0_Type Hint
+Quest_Reward_0_Text No Uses Left
+Quest_Reward_0_Duration 1

@@ -1,0 +1,18 @@
+GUID b620f40210df4023bcf3fb955d272fa5
+Type Food
+Useable Consumeable
+ID 59049
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Food 40
+Water 5
+
+Quality_Min 50
+
+Quest_Rewards 1
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 59553
+Quest_Reward_0_Amount 1

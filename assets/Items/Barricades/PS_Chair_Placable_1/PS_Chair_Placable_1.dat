@@ -1,0 +1,35 @@
+GUID f18c18d44398443a9c42004b86edb924
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Barricade
+ID 59919
+
+Size_X 1
+Size_Y 2
+Size_Z 0.55
+
+Health 150
+Range 4
+Radius 0.4
+Offset 0.8
+
+Explosion 19
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supply_0_ID 59028
+Blueprint_0_Supply_0_Amount 8
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27
+
+Blueprint_0_Conditions 1
+Blueprint_0_Condition_0_Type Flag_Bool
+Blueprint_0_Condition_0_ID 59289
+Blueprint_0_Condition_0_Value True
+Blueprint_0_Condition_0_Logic Equal
+
+PlacementAudioClip Sounds/WoodenPlacement.mp3
+
+Salvage_Duration_Multiplier 0.4

@@ -1,0 +1,33 @@
+GUID 8070c2f7d1814801801fc0880b261046
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Barricade
+ID 59600
+
+Size_X 5
+Size_Y 4
+Size_Z 0.725
+
+Health 1000
+Range 4
+Radius 0.38
+Offset 0.41
+
+Explosion 36
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59600
+Blueprint_0_Product 59009
+Blueprint_0_Products 7
+Blueprint_0_Tool 59003
+Blueprint_0_Build 27
+
+Salvage_Duration_Multiplier 0.7
+
+PlacementAudioClip Sounds/AnvilPlacement.mp3
+
+Bypass_Pickup_Ownership True

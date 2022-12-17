@@ -1,0 +1,42 @@
+GUID 5a087ac197e04630b4a72acb91cd8141
+Type Backpack
+Rarity Epic
+Useable Clothing
+ID 59672
+
+Size_X 3
+Size_Y 3
+Size_Z 0.6
+
+Width 9
+Height 15
+
+Blueprints 3
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 59672
+Blueprint_0_Product 59002
+Blueprint_0_Products 6
+Blueprint_0_Tool 59005
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 59002
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Build 32
+
+Blueprint_2_Type Apparel
+Blueprint_2_Supplies 2
+Blueprint_2_Supply_0_ID 59672
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Supply_1_ID 59762
+Blueprint_2_Supply_1_Amount 1
+Blueprint_2_Product 59758
+Blueprint_2_Products 1
+Blueprint_2_State_Transfer
+Blueprint_2_Supply_1_Critical
+Blueprint_2_Build 27
+
+Quality_Min 100
+Quality_Max 100
+
+Use_Auto_Icon_Measurements False

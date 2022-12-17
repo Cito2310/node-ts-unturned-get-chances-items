@@ -1,0 +1,28 @@
+GUID 49bb22e50e804988a81872660c2d3813
+Type Farm
+Rarity Epic
+Useable Barricade
+Build Farm
+ID 59904
+
+Size_X 1
+Size_Y 1
+Size_Z 0.24
+
+Health 1
+Range 4
+Radius 0.25
+Offset 0.325
+
+Growth 1500
+Grow 59906
+
+Explosion 43
+Vulnerable
+
+PlacementAudioClip Sounds/PlantPlacement.mp3
+
+Salvage_Duration_Multiplier 0.1
+
+Unpickupable
+Unrepairable

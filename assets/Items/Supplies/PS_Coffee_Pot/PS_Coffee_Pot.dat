@@ -1,0 +1,38 @@
+GUID 505b28ab006240dcae18bbf15dac51c0
+Type Storage
+Rarity Common
+Useable Barricade
+Build Storage
+ID 59034
+
+Size_X 2
+Size_Y 2
+Size_Z 0.33
+
+Health 100
+Range 4
+Radius 0.18
+Offset 0.19
+
+Storage_X 2
+Storage_Y 2
+
+Explosion 36
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59034
+Blueprint_0_Product 59000
+Blueprint_0_Products 3
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27
+
+Should_Close_When_Outside_Range true
+
+Salvage_Duration_Multiplier 0.1
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Bypass_Pickup_Ownership True

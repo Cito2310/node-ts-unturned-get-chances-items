@@ -1,0 +1,24 @@
+GUID c658ec65ce354fe68ee8d84c68fcab22
+Type Medical
+Rarity Rare
+Useable Consumeable
+ID 59608
+
+Size_X 1
+Size_Y 1
+Size_Z 0.5
+
+Broken
+Health 5
+
+Quest_Rewards 2
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 59609
+Quest_Reward_0_Amount 1
+Quest_Reward_1_Type Hint
+Quest_Reward_1_Text 4/5 Uses Left
+Quest_Reward_1_Duration 1
+
+Amount 5
+Count_Min 5
+Count_Max 5

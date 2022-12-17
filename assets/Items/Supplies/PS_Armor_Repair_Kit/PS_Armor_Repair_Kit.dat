@@ -1,0 +1,21 @@
+GUID b1b1b47558104746a4260773260852b4
+Type Supply
+Rarity Rare
+ID 59816
+
+Size_X 1
+Size_Y 2
+Size_Z 0.72
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 59658
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 59417
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 59010
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Product 59816
+Blueprint_0_Products 1
+Blueprint_0_Build 27

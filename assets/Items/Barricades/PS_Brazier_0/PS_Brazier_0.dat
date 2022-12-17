@@ -1,0 +1,33 @@
+GUID c4b0aea5d5f546d089d1f134c3396f22
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Build Campfire
+ID 59817
+
+Size_X 1
+Size_Y 2
+Size_Z 0.85
+
+Health 150
+Range 4
+Radius 0.63
+Offset 0.65
+
+Explosion 36
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 59231
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 59011
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Product 59817
+Blueprint_0_Products 1
+Blueprint_0_Build 27
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Salvage_Duration_Multiplier 0.2

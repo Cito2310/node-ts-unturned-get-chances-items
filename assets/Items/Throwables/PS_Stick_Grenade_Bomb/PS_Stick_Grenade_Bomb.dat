@@ -1,0 +1,39 @@
+GUID 89d26473ecb546548c536d511cdae40c
+Type Throwable
+Rarity Rare
+Useable Throwable
+ID 59420
+
+Size_X 2
+Size_Y 2
+Size_Z 0.62
+
+Player_Damage 155
+Zombie_Damage 200
+Animal_Damage 500
+Barricade_Damage 3
+Structure_Damage 3
+Vehicle_Damage 500
+Resource_Damage 777
+Object_Damage 500
+
+Range 18
+Explosion 59039
+
+Explosive
+
+Strong_Throw_Force 300
+Weak_Throw_Force 300
+
+Boost_Throw_Force_Multiplier 1
+
+Fuse_Length 12
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59419
+Blueprint_0_Supply_0_Amount 7
+Blueprint_0_Build 27
+
+Explosion_Launch_Speed 30

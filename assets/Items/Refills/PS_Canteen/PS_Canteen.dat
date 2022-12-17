@@ -1,0 +1,26 @@
+GUID dc92d219fa2e4fe68da494e7b8b10ba1
+Type Refill
+Rarity Uncommon
+Useable Refill
+ID 59054
+
+Size_X 1
+Size_Y 2
+Size_Z 0.41
+
+Quality_Min 100
+Quality_Max 100
+
+Clean_Food 0
+Clean_Oxygen 0
+Clean_Virus 0
+Clean_Water 100
+Clean_Stamina 100
+
+Dirty_Food 0
+Dirty_Oxygen 0
+Dirty_Virus 0
+Dirty_Water 100
+Dirty_Stamina 100
+
+Use_Auto_Icon_Measurements False

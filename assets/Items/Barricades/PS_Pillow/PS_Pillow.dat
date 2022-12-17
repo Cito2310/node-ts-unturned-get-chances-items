@@ -1,0 +1,33 @@
+GUID a4c14ddccace4a4a88ab480f020eda51
+Type Barricade
+Rarity Common
+Useable Barricade
+Build Barricade
+ID 59603
+
+Size_X 2
+Size_Y 2
+Size_Z 0.3
+
+Health 33
+Range 4
+Radius 0.2
+Offset 0.23
+
+Explosion 37
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59603
+Blueprint_0_Product 59002
+Blueprint_0_Products 4
+Blueprint_0_Tool 59005
+Blueprint_0_Build 32
+
+PlacementAudioClip Sounds/ClothPlacement.mp3
+
+Salvage_Duration_Multiplier 0.15
+
+Bypass_Pickup_Ownership True

@@ -1,0 +1,34 @@
+GUID 6c783709a0fb455bb6d44d5f86b9b029
+Type Backpack
+Rarity Rare
+Useable Clothing
+ID 59354
+
+Size_X 1
+Size_Y 2
+Size_Z 0.6
+
+Width 5
+Height 7
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59354
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 59010
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 59000
+Blueprint_0_Output_1_Amount 3
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 59000
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Build 32
+
+Proof_Water
+
+Quality_Min 100
+Quality_Max 100

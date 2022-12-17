@@ -1,0 +1,15 @@
+GUID 591b9484337d4ca0801419d16e9b72db
+Type Spawn
+ID 59233
+
+Tables 5
+Table_0_Asset_ID 59137
+Table_0_Weight 20
+Table_1_Asset_ID 59139
+Table_1_Weight 12
+Table_2_Asset_ID 59135
+Table_2_Weight 10
+Table_3_Asset_ID 59140
+Table_3_Weight 7
+Table_4_Spawn_ID 59232
+Table_4_Weight 5

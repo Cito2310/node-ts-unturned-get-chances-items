@@ -1,0 +1,16 @@
+GUID 111c3f078c48422e815a81fec9f27b7d
+Type Supply
+Rarity Common
+ID 59043
+
+Size_X 2
+Size_Y 1
+Size_Z 0.27
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59043
+Blueprint_0_Product 59002
+Blueprint_0_Products 2
+Blueprint_0_Build 27

@@ -1,0 +1,22 @@
+GUID 01b6ee54ee7c40eaa625ebd16fdd7c29
+Type Supply
+Rarity Rare
+ID 59352
+
+Size_X 1
+Size_Y 1
+Size_Z 0.26
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59352
+Blueprint_0_Outputs 3
+Blueprint_0_Output_0_ID 59016
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 59000
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Output_2_ID 59017
+Blueprint_0_Output_2_Amount 2
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27

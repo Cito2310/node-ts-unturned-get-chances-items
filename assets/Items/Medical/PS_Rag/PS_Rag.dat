@@ -1,0 +1,19 @@
+GUID 82952d57c27d48499865d621efc79478
+Type Medical
+Rarity Common
+Useable Consumeable
+ID 59173
+
+Size_X 1
+Size_Y 1
+Size_Z 0.32
+
+Aid
+Bleeding
+Health 10
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supply_0_ID 59002
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 32

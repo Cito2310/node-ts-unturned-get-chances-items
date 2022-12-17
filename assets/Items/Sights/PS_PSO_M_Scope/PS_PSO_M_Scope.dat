@@ -1,0 +1,26 @@
+GUID 46d48e769b004dcfb414ab2906e4b96e
+Type Sight
+Rarity Epic
+ID 59770
+
+Size_X 2
+Size_Y 1
+Size_Z 0.19
+
+Spread 0.9
+Zoom 7
+
+Calibers 1
+Caliber_0 58905
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59770
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 59000
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 59017
+Blueprint_0_Output_1_Amount 2
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27

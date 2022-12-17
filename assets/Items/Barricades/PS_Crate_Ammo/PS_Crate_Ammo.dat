@@ -1,0 +1,36 @@
+GUID 6c219d087c164209b331bc9310632584
+Type Storage
+Rarity Rare
+Useable Barricade
+Build Storage
+ID 59681
+
+Size_X 3
+Size_Y 2
+Size_Z 0.22
+
+Health 100
+Range 4
+Radius 0.24
+Offset 0.269
+
+Storage_X 4
+Storage_Y 4
+
+Explosion 36
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59681
+Blueprint_0_Product 59000
+Blueprint_0_Products 2
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27
+
+Should_Close_When_Outside_Range true
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Salvage_Duration_Multiplier 0.1

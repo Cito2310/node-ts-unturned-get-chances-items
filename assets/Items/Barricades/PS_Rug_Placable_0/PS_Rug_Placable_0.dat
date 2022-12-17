@@ -1,0 +1,20 @@
+GUID d2a1e0974a6345bea3197a2711028ecf
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Barricade
+ID 59957
+
+Size_X 2
+Size_Y 1
+Size_Z 0.4
+
+Health 100
+Range 4
+Offset 0.01
+
+Explosion 37
+Vulnerable
+
+Salvage_Duration_Multiplier 0.2
+PlacementAudioClip Sounds/ClothPlacement.mp3

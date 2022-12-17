@@ -1,0 +1,19 @@
+GUID 693b157cc2d04214beea3ea2d0d878a4
+Type Supply
+Rarity Rare
+ID 59682
+
+Size_X 3
+Size_Y 2
+Size_Z 0.37
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59682
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 59263
+Blueprint_0_Output_0_Amount 2
+Blueprint_0_Output_1_ID 59681
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Build 30

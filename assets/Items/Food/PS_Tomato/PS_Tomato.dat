@@ -1,0 +1,21 @@
+GUID 6e1a6ecba2fa4332a65bf77935f25832
+Type Food
+Rarity Uncommon
+Useable Consumeable
+ID 59234
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Quality_Min 50
+
+Food 5
+Water 15
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Source 59235
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 0
+Action_0_Key Craft_Seed

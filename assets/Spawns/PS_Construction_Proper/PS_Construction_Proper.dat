@@ -1,0 +1,13 @@
+GUID 2547ac9fe5b449e5b618ad78cd2f7c1b
+Type Spawn
+ID 59046
+
+Tables 4
+Table_0_Spawn_ID 59043
+Table_0_Weight 80
+Table_1_Spawn_ID 59042
+Table_1_Weight 10
+Table_2_Spawn_ID 59080
+Table_2_Weight 3
+Table_3_Asset_ID 59629
+Table_3_Weight 2

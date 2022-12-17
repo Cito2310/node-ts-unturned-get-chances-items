@@ -1,0 +1,22 @@
+GUID 3d1cfc3beae94b7389ad281821ecd25c
+Type Supply
+Rarity Epic
+ID 59689
+
+Size_X 3
+Size_Y 2
+Size_Z 0.37
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59689
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 59311
+Blueprint_0_Output_0_Amount 2
+Blueprint_0_Output_1_ID 59681
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Build 30
+
+Master_Bundle_Override prosur.masterbundle
+Bundle_Override_Path /Items/Supplies/PS_Ammo_Crate_0

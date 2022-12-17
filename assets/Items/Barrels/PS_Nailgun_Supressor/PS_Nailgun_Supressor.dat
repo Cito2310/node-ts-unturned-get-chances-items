@@ -1,0 +1,12 @@
+GUID 64613cf413764a3b8071ac8b1e0aceb3
+Type Barrel
+ID 59954
+
+Size_X 5
+Size_Y 5
+Size_Z 1
+
+Silenced 
+Volume 1
+
+Gunshot_Rolloff_Distance_Multiplier 1

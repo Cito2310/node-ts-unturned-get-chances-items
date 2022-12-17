@@ -1,0 +1,12 @@
+GUID 22e516a171f94019ae2d1af2848a1901
+Type Barrel
+ID 59367
+
+Size_X 5
+Size_Y 5
+Size_Z 1
+
+Silenced 
+Volume 0.75
+
+Gunshot_Rolloff_Distance_Multiplier 0.25

@@ -1,0 +1,17 @@
+GUID c505d6ab09084a5ca19204cace2878ba
+Type Supply
+Rarity Common
+ID 59137
+
+Size_X 1
+Size_Y 1
+Size_Z 0.23
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59137
+Blueprint_0_Product 59062
+Blueprint_0_Products 1
+Blueprint_0_Tool 59005
+Blueprint_0_Build 27

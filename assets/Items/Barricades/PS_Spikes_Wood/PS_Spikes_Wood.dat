@@ -1,0 +1,35 @@
+GUID 23add7bbbfe047bbabbc1fb3450801f6
+Type Trap
+Rarity Common
+Useable Barricade
+Build Spike
+ID 59219
+
+Size_X 1
+Size_Y 2
+Size_Z 0.35
+
+Health 33
+Range 4
+Radius 0.28
+Offset 0.25
+
+Player_Damage 27
+Zombie_Damage 60
+Animal_Damage 80
+
+Explosion 19
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supply_0_ID 59202
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Tool 59005
+Blueprint_0_Build 27
+
+Allow_Placement_On_Vehicle False
+
+Salvage_Duration_Multiplier 0.5
+
+PlacementAudioClip Sounds/WoodenPlacement.mp3

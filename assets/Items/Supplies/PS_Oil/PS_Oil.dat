@@ -1,0 +1,24 @@
+GUID 6743a57c2b3b455a9967260d1f155552
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Build Barricade
+ID 59130
+
+Size_X 2
+Size_Y 2
+Size_Z 0.54
+
+Health 50
+Range 4
+Radius 0.25
+Offset 0.29
+
+Explosion 36
+Vulnerable
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Salvage_Duration_Multiplier 0.1
+
+Bypass_Pickup_Ownership True

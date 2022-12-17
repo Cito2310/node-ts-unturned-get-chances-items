@@ -1,0 +1,29 @@
+GUID 3070b796c9e240dc84f797e9bba0cc80
+Type Fuel
+Rarity Rare
+Useable Fuel
+ID 59519
+
+Size_X 2
+Size_Y 2
+Size_Z 0.61
+
+Fuel 1500
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 59129
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 59028
+Blueprint_0_Supply_1_Amount 5
+Blueprint_0_Supply_2_ID 59625
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27
+
+Blueprint_0_Conditions 1
+Blueprint_0_Condition_0_Type Flag_Bool
+Blueprint_0_Condition_0_ID 59032
+Blueprint_0_Condition_0_Value True
+Blueprint_0_Condition_0_Logic Equal

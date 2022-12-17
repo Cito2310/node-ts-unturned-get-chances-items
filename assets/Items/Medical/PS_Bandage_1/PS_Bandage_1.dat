@@ -1,0 +1,27 @@
+GUID fa70b55eba9e4bde9b129a66aa0f76f7
+Type Medical
+Rarity Rare
+Useable Consumeable
+ID 59171
+
+Size_X 1
+Size_Y 1
+Size_Z 0.053
+
+Aid
+Bleeding
+Health 20
+
+Disinfectant 3
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 59170
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Supply_1_ID 59014
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Products 3
+Blueprint_0_Build 27
+
+Use_Auto_Icon_Measurements False

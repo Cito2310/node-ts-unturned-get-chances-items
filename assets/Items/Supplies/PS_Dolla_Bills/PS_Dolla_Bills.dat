@@ -1,0 +1,33 @@
+GUID a3cf2d7c357142e08508a7bdaa9c29bb
+Type Barricade
+Rarity Common
+Useable Barricade
+Build Barricade
+ID 59398
+
+Size_X 1
+Size_Y 1
+Size_Z 0.325
+
+Health 5
+Range 4
+Radius 0.06
+Offset 0.06
+
+Explosion 37
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59398
+Blueprint_0_Product 59002
+Blueprint_0_Products 2
+Blueprint_0_Tool 59005
+Blueprint_0_Build 32
+
+PlacementAudioClip Sounds/PaperPlacement.mp3
+
+Salvage_Duration_Multiplier 0.08
+
+Bypass_Pickup_Ownership True

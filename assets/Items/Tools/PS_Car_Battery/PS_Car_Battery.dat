@@ -1,0 +1,26 @@
+GUID c96486d780024505b63c73df720679fa
+Type Vehicle_Repair_Tool
+Rarity Uncommon
+Useable Battery_Vehicle
+ID 59286
+
+Size_X 3
+Size_Y 2
+Size_Z 0.375
+
+Quality_Min 50
+Quality_Max 75
+
+Override_Show_Quality
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 59624
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 59007
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Supply_2_ID 59009
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Tool 59003
+Blueprint_0_Build 27

@@ -1,0 +1,18 @@
+GUID 07e00765be834b5795d820bbfc4e95c9
+Type Supply
+Rarity Epic
+ID 59514
+
+Size_X 2
+Size_Y 1
+Size_Z 0.26
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59514
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 59016
+Blueprint_0_Output_0_Amount 4
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27

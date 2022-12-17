@@ -1,0 +1,29 @@
+GUID 4bffbc6dad77459283ddfbcb541ebc86
+Type Glasses
+Rarity Rare
+Useable Clothing
+ID 59353
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Hair
+Beard
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59353
+Blueprint_0_Outputs 1
+Blueprint_0_Output_0_ID 59000
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 59000
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Build 32
+
+Proof_Water

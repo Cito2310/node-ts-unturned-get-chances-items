@@ -1,0 +1,22 @@
+GUID a61ab5ad54334386a0f779dc92b3177d
+Type Supply
+Rarity Rare
+ID 59041
+
+Size_X 1
+Size_Y 1
+Size_Z 0.24
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59041
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 59016
+Blueprint_0_Output_0_Amount 1
+Blueprint_0_Output_1_ID 59028
+Blueprint_0_Output_1_Amount 1
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27
+
+Use_Auto_Icon_Measurements False

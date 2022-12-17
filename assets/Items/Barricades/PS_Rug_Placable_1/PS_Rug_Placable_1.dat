@@ -1,0 +1,26 @@
+GUID 3b07e5ec5f1c4856900bf4ba2125ebd9
+Type Barricade
+Rarity Common
+Useable Barricade
+Build Barricade
+ID 59958
+
+Size_X 2
+Size_Y 1
+Size_Z 0.4
+
+Health 100
+Range 4
+Offset 0.01
+
+Explosion 37
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supply_0_ID 59002
+Blueprint_0_Supply_0_Amount 10
+Blueprint_0_Build 27
+PlacementAudioClip Sounds/ClothPlacement.mp3
+
+Salvage_Duration_Multiplier 0.2

@@ -1,0 +1,29 @@
+GUID bf53aed4e80946bca43374c1fbc2c5e4
+Type Medical
+Rarity Rare
+Useable Consumeable
+ID 59647
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Virus 3
+Broken
+Health 10
+Energy 50
+
+Quest_Rewards 2
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 59648
+Quest_Reward_0_Amount 1
+Quest_Reward_1_Type Hint
+Quest_Reward_1_Text 1/10 Uses Left
+Quest_Reward_1_Duration 1
+
+Master_Bundle_Override prosur.masterbundle
+Bundle_Override_Path /Items/Medical/PS_Painkillers_0
+
+Amount 2
+Count_Min 2
+Count_Max 2

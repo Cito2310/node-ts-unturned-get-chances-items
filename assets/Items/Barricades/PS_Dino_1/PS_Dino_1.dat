@@ -1,0 +1,29 @@
+GUID 639868ebabac4bdabff4cea67ed3034e
+Type Barricade
+Rarity Legendary
+Useable Barricade
+Build Barricade
+ID 59822
+
+Size_X 5
+Size_Y 4
+Size_Z 0.9
+
+Health 1500
+Range 7
+Radius 2
+Offset 2.29
+
+Explosion 19
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supply_0_ID 59821
+Blueprint_0_Supply_0_Amount 17
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27
+
+Salvage_Duration_Multiplier 0.8
+
+PlacementAudioClip Sounds/WoodenPlacement.mp3

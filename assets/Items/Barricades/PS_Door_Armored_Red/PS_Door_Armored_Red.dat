@@ -1,0 +1,33 @@
+GUID dcfdb50e63704196b2745b6178145750
+Type Barricade
+Rarity Legendary
+Useable Barricade
+Build Door
+ID 59489
+
+Size_X 1
+Size_Y 2
+Size_Z 0.65
+
+Health 2800
+Range 4
+Radius 1
+Offset 1.25
+
+Locked
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 59438
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 59505
+Blueprint_0_Supply_1_Amount 3
+Blueprint_0_Tool 59003
+Blueprint_0_Build 27
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Salvage_Duration_Multiplier 0.2

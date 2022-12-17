@@ -1,0 +1,19 @@
+GUID 82c770b6c2e24a28969db869e4d1451f
+Type Compass
+Rarity Epic
+ID 59623
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Enables_Compass
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59623
+Blueprint_0_Product 59627
+Blueprint_0_Products 1
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27

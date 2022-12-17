@@ -1,0 +1,15 @@
+GUID 630fc2647dd946ba93eec3394a8c15bd
+Type Supply
+Rarity Uncommon
+ID 59176
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supply_0_ID 59176
+Blueprint_0_Product 59002
+Blueprint_0_Products 2
+Blueprint_0_Build 32

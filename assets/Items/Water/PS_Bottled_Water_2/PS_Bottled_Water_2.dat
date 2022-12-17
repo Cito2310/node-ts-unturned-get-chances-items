@@ -1,0 +1,21 @@
+GUID 80313085c0f84a6493409075da787c06
+Type Water
+Rarity Uncommon
+Useable Consumeable
+ID 59632
+
+Size_X 1
+Size_Y 1
+Size_Z 0.4
+
+Water 22
+
+Quality_Min 100
+
+Quest_Rewards 2
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 59633
+Quest_Reward_0_Amount 1
+Quest_Reward_1_Type Hint
+Quest_Reward_1_Text 2/5 Uses Left
+Quest_Reward_1_Duration 1

@@ -1,0 +1,95 @@
+GUID ef3de7eee5af41a7a09abc6f705e6633
+Type Gun
+Rarity Epic
+Useable Gun
+Slot Any
+ID 59871
+
+Size_X 2
+Size_Y 1
+Size_Z 0.3
+
+Sight 59882
+Tactical 59678
+Grip 59881
+Magazine 59884
+
+Ammo_Min 1
+Ammo_Max 100
+
+Semi
+
+Magazine_Calibers 1
+Magazine_Caliber_0 59999
+
+Firerate 60
+Action Rocket
+
+Player_Damage 0
+Player_Leg_Multiplier 0
+Player_Arm_Multiplier 0
+Player_Spine_Multiplier 0
+Player_Skull_Multiplier 0
+
+Zombie_Damage 0
+Zombie_Leg_Multiplier 0
+Zombie_Arm_Multiplier 0
+Zombie_Spine_Multiplier 0
+Zombie_Skull_Multiplier 0
+
+Animal_Damage 0
+Animal_Leg_Multiplier 0
+Animal_Spine_Multiplier 0
+Animal_Skull_Multiplier 0
+
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 0
+Resource_Damage 0
+Object_Damage 0
+
+Spread_Aim 0.0001
+Spread_Hip 0.0001
+
+Recoil_Min_X 0
+Recoil_Min_Y 0
+Recoil_Max_X 0
+Recoil_Max_Y 0
+
+Recover_X 0
+Recover_Y 0
+
+Shake_Min_X 0
+Shake_Min_Y 0
+Shake_Min_Z 0
+Shake_Max_X 0
+Shake_Max_Y 0
+Shake_Max_Z 0
+
+Range 600
+Ammo_Per_Shot 1
+Ballistic_Drop 10
+Allow_Magazine_Change False
+Fire_Delay_Seconds 65000
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59871
+Blueprint_0_Outputs 3
+Blueprint_0_Output_0_ID 59028
+Blueprint_0_Output_0_Amount 2
+Blueprint_0_Output_1_ID 59016
+Blueprint_0_Output_1_Amount 2
+Blueprint_0_Output_2_ID 59017
+Blueprint_0_Output_2_Amount 2
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27
+
+Use_Auto_Icon_Measurements False
+
+Spread_Prone 1
+Spread_Crouch 1
+
+Quality_Min 100
+Quality_Max 100

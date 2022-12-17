@@ -1,0 +1,21 @@
+GUID c354a15a21d24c7293e0e88e8c62f79a
+Type Spawn
+ID 59010
+
+Tables 8
+Table_0_Asset_ID 59010
+Table_0_Weight 150
+Table_1_Asset_ID 59004
+Table_1_Weight 60
+Table_2_Asset_ID 59130
+Table_2_Weight 25
+Table_3_Asset_ID 59131
+Table_3_Weight 25
+Table_4_Asset_ID 59011
+Table_4_Weight 15
+Table_5_Asset_ID 59006
+Table_5_Weight 35
+Table_6_Asset_ID 59003
+Table_6_Weight 30
+Table_7_Asset_ID 59129
+Table_7_Weight 40

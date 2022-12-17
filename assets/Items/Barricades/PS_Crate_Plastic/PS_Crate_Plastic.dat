@@ -1,0 +1,40 @@
+GUID 2b76950743f8455fac5b55baadf59cfb
+Type Storage
+Rarity Uncommon
+Useable Barricade
+Build Storage
+ID 59518
+
+Size_X 2
+Size_Y 2
+Size_Z 0.56
+
+Health 300
+Range 4
+Radius 0.6
+Offset 0.75
+
+Storage_X 8
+Storage_Y 8
+
+Explosion 19
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supply_0_ID 59028
+Blueprint_0_Supply_0_Amount 9
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27
+
+Blueprint_0_Conditions 1
+Blueprint_0_Condition_0_Type Flag_Bool
+Blueprint_0_Condition_0_ID 59031
+Blueprint_0_Condition_0_Value True
+Blueprint_0_Condition_0_Logic Equal
+
+Should_Close_When_Outside_Range True
+
+PlacementAudioClip Sounds/WoodenPlacement.mp3
+
+Salvage_Duration_Multiplier 0.2

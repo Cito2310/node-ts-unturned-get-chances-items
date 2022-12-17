@@ -1,0 +1,20 @@
+GUID 650dd754909047f19ce4d66e0bf2297e
+Type Fisher
+Rarity Mythical
+Useable Fisher
+ID 59732
+
+Size_X 3
+Size_Y 1
+Size_Z 0.25
+
+Backward
+
+Reward_ID 59229
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59731
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 27
