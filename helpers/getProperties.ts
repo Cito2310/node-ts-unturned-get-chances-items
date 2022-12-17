@@ -18,5 +18,5 @@ export const getProperties = ( basepath: string ) => {
                 })
         })
 
-    return properties
+    return properties.sort()
 }   
